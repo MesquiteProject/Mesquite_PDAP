@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<mesquite>
+	<MessagesFromHome>
+		<version>1</version>
+		<currentReleaseVersion>
+			<versionString>1.16</versionString>
+			<version>116</version>
+			<downloadURL>http://mesquiteproject.org/pdap_mesquite/index.html</downloadURL>
+		</currentReleaseVersion>
+		<notice>
+			<noticeNumber>1</noticeNumber>
+			<messageType>update</messageType>
+			<identity>pdap</identity>
+			<packageName>PDAP:PDTREE</packageName>
+			<explanation>
+				<![CDATA[A translation of the PDTREE module of Garland et al.'s Phenotypic Diversity Analysis Programs.  This package provides scatterplots
+			for correlation of contrasts, diagnostics, and statistics related to root reconstructions.  It also provides a small library of additional branch length
+			transforms (e.g., Pagel's arbitrary method, Grafen's arbitrary method, Grafen's rho transform) and support for import and export of the PDI format 
+			of Garland et. al. 1993.]]>
+			</explanation>
+			<updateVersion>001</updateVersion>
+			<install>
+				<location>mesquite</location>
+				<file>pdap</file>
+				<url>http://mesquiteproject.org/pdap_mesquite/new_installer/pdap.zip</url>
+				<treatment>unzip</treatment>
+				<updateVersion>001</updateVersion>
+			</install>
+			<install>
+				<location>:query user</location>
+				<file>pdap_examples</file>
+				<url>http://mesquiteproject.org/pdap_mesquite/new_installer/pdap_examples.zip</url>
+				<treatment>unzip</treatment>
+			</install>
+		</notice>
+	</MessagesFromHome>
+</mesquite>

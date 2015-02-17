@@ -1,0 +1,203 @@
+#NEXUS
+[written Fri May 15 20:23:29 PDT 2009 by Mesquite  version 2.6 (build 486) at Dell9300Laptop/192.168.1.76]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=49;
+	TAXLABELS
+		Tm Ur Um Nn P2 Mp Ml Cp Ct Lp Ca Uc Vf Hh Cc Aj Pp Pt Pl Tb Cs Db Eh Ec Eb Lg Cd Gc Sc Bb To Gg Gt Ac Mk Oa Oc He Am Cu Dl Ab Aa C2 Dd Al Rt Ov Oh 
+	;
+
+END;
+
+
+BEGIN TREES;
+	Title Imported_trees;
+	LINK Taxa = Taxa;
+	TRANSLATE
+		1 Tm,
+		2 Ur,
+		3 Um,
+		4 Nn,
+		5 P2,
+		6 Mp,
+		7 Ml,
+		8 Cp,
+		9 Ct,
+		10 Lp,
+		11 Ca,
+		12 Uc,
+		13 Vf,
+		14 Hh,
+		15 Cc,
+		16 Aj,
+		17 Pp,
+		18 Pt,
+		19 Pl,
+		20 Tb,
+		21 Cs,
+		22 Db,
+		23 Eh,
+		24 Ec,
+		25 Eb,
+		26 Lg,
+		27 Cd,
+		28 Gc,
+		29 Sc,
+		30 Bb,
+		31 To,
+		32 Gg,
+		33 Gt,
+		34 Ac,
+		35 Mk,
+		36 Oa,
+		37 Oc,
+		38 He,
+		39 Am,
+		40 Cu,
+		41 Dl,
+		42 Ab,
+		43 Aa,
+		44 C2,
+		45 Dd,
+		46 Al,
+		47 Rt,
+		48 Ov,
+		49 Oh;
+	TREE Imported_tree_0 = ((((((1:0.03279018,2:0.03279018):0.047871949999999996,3:0.08066213):0.49935589,((4:0.08066213,5:0.08066213):0.35572568000000004,(6:0.29801116,7:0.29801116):0.13837665000000005):0.14363020999999998):0.07884214000000002,(((((8:0.040877289999999955,9:0.040877289999999955):0.008043420000000023,10:0.04892070999999998):0.04735602999999999,11:0.09627673999999997):0.04584140999999997,12:0.14211814999999994):0.00749640000000007,13:0.14961455):0.50924561):0.05480493099999999,((14:0.08066213,15:0.08066213):0.29486753,(16:0.14211814999999994,(17:0.040877289999999955,(18:0.03279018,19:0.03279018):0.008087109999999953):0.10124085999999999):0.23341151000000004):0.338135431):0.099477939,(((20:0.63978565,(21:0.20096743999999994,22:0.20096743999999994):0.43881821000000004):0.056005559999999996,(23:0.11172307999999997,(24:0.09627673999999997,25:0.09627673999999997):0.015446340000000003):0.58406813):0.085618873,((26:0.26419452,27:0.26419452):0.30547897,(28:0.30466526,((((29:0.15707044999999997,30:0.15707044999999997):0.1275238800000001,31:0.28459433000000006):0.006726589999999977,((((32:0.040877289999999955,33:0.040877289999999955):0.07084579000000002,34:0.11172307999999997):0.06013853000000002,35:0.17186161):0.07159881999999995,((36:0.06487739999999997,37:0.06487739999999997):0.17159643999999996,(38:0.14211814999999994,(39:0.10402082999999995,(40:0.08849059000000004,(41:0.05692067000000001,42:0.05692067000000001):0.03156992000000003):0.015530239999999917):0.03809731999999999):0.09435568999999999):0.006986590000000015):0.04786049000000009):0.0066902399999999584,(43:0.29132092000000004,((44:0.06487739999999997,45:0.06487739999999997):0.10698421000000002,(46:0.08849059000000004,(47:0.08066213,(48:0.016483909999999935,49:0.016483909999999935):0.06417822000000006):0.007828460000000037):0.08337101999999996):0.11945931000000004):0.0066902399999999584):0.006654099999999996):0.26500823):0.21173659300000003):0.031732947);
+
+END;
+
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 1505861737939382724;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 100;
+			setPopoutState 400;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 1206 969;
+			setLocation 8 8;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.trees.BasicTreeWindowCoord.BasicTreeWindowCoord;
+		tell It;
+			makeTreeWindow #1505861737939382724  #mesquite.trees.BasicTreeWindowMaker.BasicTreeWindowMaker;
+			tell It;
+				suppressEPCResponse;
+				setTreeSource  #mesquite.trees.StoredTrees.StoredTrees;
+				tell It;
+					setTreeBlock 1;
+					toggleUseWeights off;
+				endTell;
+				setAssignedID 1079.1242444190062.5512643045204823914;
+				getTreeWindow;
+				tell It;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1106 902;
+					setLocation 8 8;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+					endTell;
+					setActive;
+					getTreeDrawCoordinator #mesquite.trees.BasicTreeDrawCoordinator.BasicTreeDrawCoordinator;
+				tell It;
+					suppress;
+					setTreeDrawer  #mesquite.trees.SquareTree.SquareTree;
+					tell It;
+						setNodeLocs #mesquite.trees.NodeLocsStandard.NodeLocsStandard;
+						tell It;
+							branchLengthsToggle off;
+							toggleScale on;
+							toggleBroadScale off;
+							toggleCenter on;
+							toggleEven on;
+						endTell;
+						setEdgeWidth 6;
+						orientUp;
+						toggleCorners off;
+					endTell;
+					setBackground White;
+					setBranchColor Black;
+					showNodeNumbers off;
+					showBranchColors on;
+					labelBranchLengths off;
+					centerBrLenLabels on;
+					showBrLensUnspecified on;
+					showBrLenLabelsOnTerminals on;
+					setBrLenLabelColor 0 0 255;
+					setNumBrLenDecimals 6;
+					desuppress;
+					getEmployee #mesquite.trees.BasicDrawTaxonNames.BasicDrawTaxonNames;
+					tell It;
+						setColor Black;
+						toggleColorPartition on;
+						toggleShadePartition off;
+						toggleNodeLabels on;
+						toggleCenterNodeNames off;
+						toggleShowNames on;
+						namesAngle ?;
+					endTell;
+				endTell;
+					setTreeNumber 1;
+					setDrawingSizeMode 0;
+					toggleLegendFloat on;
+					scale 0;
+					toggleTextOnTree off;
+					showWindow;
+				endTell;
+				desuppressEPCResponse;
+				getEmployee #mesquite.trees.ColorBranches.ColorBranches;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.ornamental.BranchNotes.BranchNotes;
+				tell It;
+					setAlwaysOn off;
+				endTell;
+				getEmployee #mesquite.ornamental.ColorTreeByPartition.ColorTreeByPartition;
+				tell It;
+					colorByPartition off;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocDoubles.DrawTreeAssocDoubles;
+				tell It;
+					setOn on;
+					toggleShow consensusFrequency;
+					setDigits 4;
+					writeAsPercentage off;
+					toggleCentred on;
+					toggleHorizontal on;
+					setFontSize 10;
+					setOffset 0  0;
+				endTell;
+				getEmployee #mesquite.trees.TreeInfoValues.TreeInfoValues;
+				tell It;
+					panelOpen false;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+

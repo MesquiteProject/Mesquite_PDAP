@@ -1,0 +1,245 @@
+#NEXUS
+[written Sun Mar 24 12:25:33 MST 2002 by Mesquite  version 0.98+]
+
+BEGIN TAXA;
+	TITLE Test_Taxa;
+	DIMENSIONS NTAX=5;
+	TAXLABELS
+		Aa
+		Bb_
+		Cc
+		Dd
+		Ee
+	;
+
+END;
+
+
+BEGIN CHARACTERS;
+	TITLE  Test_Continuous;
+	DIMENSIONS NCHAR=3;
+	FORMAT DATATYPE = CONTINUOUS;
+CHARSTATELABELS 
+    1 Leg_length, 
+    2 Cerebral_Surface_Area, 
+    3 Brain_Volume, 
+ ; 
+	MATRIX
+	Aa    1.0 1.0 1.0
+	Bb_   2.0 4.0 8.0
+	Cc    3.0 9.0 27.0
+	Dd    4.0 16.0 64.0
+	Ee    5.0 25.0 125.0
+
+;
+
+END;
+
+BEGIN TREES;
+	Title Default_Trees;
+	LINK Taxa = Test_Taxa;
+[!Parameters: 
+
+]
+	TRANSLATE
+		1 Aa,
+		2 Bb_,
+		3 Cc,
+		4 Dd,
+		5 Ee;
+	TREE Default_ladder = (1,(2,(3,(4,5))));
+	TREE Default_bush = (1,2,3,4,5);
+
+END;
+
+
+BEGIN ASSUMPTIONS;
+	TYPESET * UNTITLED   =  Squared:  1 -  3;
+
+END;
+
+BEGIN MESQUITECHARMODELS;
+	ProbModelSet * UNTITLED   =  Brownian_default:  1 -  3;
+END;
+
+Begin MESQUITE;
+		TITLE AUTO;
+		getEmployee  #ManageTaxa;
+		tell It;
+			setID 0 8128337982713065841;
+			showTaxa #8128337982713065841 #TaxonList;
+			tell It;
+				setTaxa #8128337982713065841;
+				getWindow;
+				tell It;
+					setSize 360 400;
+					setLocation 60 10;
+					setFont SanSerif;
+					setFontSize 10;
+					onInfoBar;
+					setExplanationSize 20;
+					setAnnotationSize 20;
+					getToolPalette;
+					tell It;
+						setTool arrow;
+					endTell;
+				endTell;
+				showWindow;
+			endTell;
+		endTell;
+		getEmployee  #ManageCharacters;
+		tell It;
+			setID 0 8651610567041072881;
+		endTell;
+		getEmployee  #BasicDataWindowCoord;
+		tell It;
+			showDataWindow #8651610567041072881 #BasicDataWindowMaker;
+			tell It;
+				getWindow;
+				tell It;
+					getTable;
+					tell It;
+						columnWidth 0 68;
+						columnWidth 1 117;
+						columnWidth 2 86;
+					endTell;
+					setSize 585 280;
+					setLocation 60 22;
+					setFont SanSerif;
+					setFontSize 10;
+					onInfoBar;
+					setExplanationSize 20;
+					setAnnotationSize 20;
+					getToolPalette;
+					tell It;
+						setTool ibeam;
+					endTell;
+					setTool ibeam;
+					toggleColorCell off;
+				endTell;
+				showWindow;
+			endTell;
+		endTell;
+		getEmployee  #BasicTreeWindowCoord;
+		tell It;
+			makeTreeWindow #8128337982713065841  #BasicTreeWindowMaker;
+			tell It;
+				setTreeSource  #StoredTrees;
+				tell It;
+					setTreeBlock 1;
+				endTell;
+				setAssignedID 425.1012842632185.4206580254044149420;
+				getTreeWindow;
+				tell It;
+					setSize 778 556;
+					setLocation 60 22;
+					setFont SanSerif;
+					setFontSize 10;
+					onInfoBar;
+					setExplanationSize 20;
+					setAnnotationSize 20;
+					getToolPalette;
+					tell It;
+						setTool adjustor;
+					endTell;
+					setTreeNumber 2;
+					setTree '(1:1.0,2:1.0,3:1.0,4:1.0,5:1.0);';
+					toggleSizeToFit on;
+					newWindowAssistant  #PDAPDiagnosticChart;
+				tell It;
+					setCharacterSource  #StoredCharacters;
+					tell It;
+						setDataSet #8651610567041072881;
+					endTell;
+					setScreen 12;
+					setX 1;
+					setY 1;
+					toggleTreeLabels off;
+					getWindow;
+					tell It;
+						setSize 916 679;
+						setLocation 121 22;
+						setFont SanSerif;
+						setFontSize 10;
+						onInfoBar;
+						setExplanationSize 20;
+						setAnnotationSize 20;
+						getToolPalette;
+						tell It;
+						endTell;
+						getLegend;
+						tell It;
+							setBounds 200 143 142 63;
+							setOffsetX 200;
+							setOffsetY 143;
+						endTell;
+					endTell;
+					showWindow;
+					getEmployee Scattergram;
+					tell It;
+						toggleSizeToFit on;
+						toggleJoin off;
+						markerSize 10;
+						sumByBlocks off;
+						movingWindowSize 1;
+							newAssistant  #ScatterRootCIPI;
+						tell It;
+							getEmployee Reconstructed_Root_Value;
+							tell It;
+								setwidth1 0.95;
+								setvh 1.0;
+								setDFReduction 0;
+							endTell;
+						endTell;
+					endTell;
+					getEmployee PDAP_contrast_calculations;
+					tell It;
+						setItem 0;
+					endTell;
+					getEmployee Contrast_Residuals;
+					tell It;
+						setCharacterSource  #StoredCharacters;
+						tell It;
+							setDataSet #8651610567041072881;
+						endTell;
+						setCharacterA 1;
+						setCharacterB 2;
+					endTell;
+				endTell;
+				endTell;
+				getTreeDrawCoordinator #BasicTreeDrawCoordinator;
+				tell It;
+					suppress;
+					setTreeDrawer  #DiagonalDrawTree;
+					tell It;
+						setEdgeWidth 12;
+						orientUp;
+						getEmployee 'Node Locations (standard)';
+						tell It;
+							stretchToggle off;
+							branchLengthsToggle off;
+							toggleScale on;
+							toggleCenter off;
+							toggleEven off;
+						endTell;
+					endTell;
+					setBackground White;
+					setBranchColor Black;
+					desuppress;
+					getEmployee Basic_Draw_Taxon_Names;
+					tell It;
+						toggleColorPartition on;
+						toggleNodeLabels on;
+						toggleShowNames on;
+					endTell;
+				endTell;
+				showWindow;
+				getEmployee Color_Branches;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+			endTell;
+		endTell;
+end;
+

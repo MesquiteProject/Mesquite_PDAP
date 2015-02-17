@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<mesquite>
+	<MessagesFromHome>
+		<version>1</version>		
+		<currentReleaseVersion>
+			<versionString>1.16</versionString>
+			<version>116</version>
+			<downloadURL>http://mesquiteproject.org/pdap_mesquite/index.html</downloadURL>
+		</currentReleaseVersion>
+		<notice>
+			<forPackageVersionEqualOrLess>116</forPackageVersionEqualOrLess>
+			<noticeNumber>11</noticeNumber>
+			<messageType>alert</messageType>
+			<message>
+				<![CDATA[<h2>Changes</h2>Release 1.16 is a bug fix to the Grafen (1989) branch length transform (not Grafen's rho transform).
+			</message>
+		</notice>
+		<notice>
+			<forPackageVersionEqualOrLess>115</forPackageVersionEqualOrLess>
+			<noticeNumber>10</noticeNumber>
+			<messageType>alert</messageType>
+			<message>
+				<![CDATA[<h2>Changes</h2>Release 115 contains updates to axis titling and warning about resolution of polytomies.  The polytomy
+				         issue relates to the resolution of polytomies into multiple contrasts.  This resolution is arbitrary and may result in the detailed 
+				         contrasts differing between different implementations (e.g., this module and DOS PDTREE).  However, the summary statistics will
+				         are not affected by manner in which polytomies are resolved.]]>
+			</message>
+		</notice>
+		<notice>
+			<forPackageVersionEqualOrLess>114</forPackageVersionEqualOrLess>
+			<messageType>update</messageType>
+			<identity>pdap</identity>
+			<packageName>PDAP:PDTREE</packageName>
+			<explanation><![CDATA[A translation of the PDTREE module of Garland et al.'s Phenotypic Diversity Analysis Programs.  This package provides scatterplots
+			for correlation of contrasts, diagnostics, and statistics related to root reconstructions.  It also provides a small library of additional branch length
+			transforms (e.g., Pagel's arbitrary method, Grafen's arbitrary method, Grafen's rho transform) and support for import and export of the PDI format of 
+			Garland et. al. 1993.]]>
+			</explanation>
+			<updateVersion>001</updateVersion>
+			<install>
+				<location>mesquite</location>
+				<file>pdap</file>
+				<url>http://mesquiteproject.org/pdap_mesquite/new_installer/pdap.zip</url>
+				<treatment>unzip</treatment>
+				<updateVersion>001</updateVersion>
+			</install>
+			<install>
+				<location>:query user</location>
+				<file>pdap_examples</file>
+				<url>http://mesquiteproject.org/pdap_mesquite/new_installer/pdap_examples.zip</url>
+				<treatment>unzip</treatment>
+			</install>
+		</notice>
+		<notice>
+			<forPackageVersionEqualOrLess>114</forPackageVersionEqualOrLess>
+			<noticeNumber>8</noticeNumber>
+			<messageType>alert</messageType>
+			<message>
+				<![CDATA[PDAP:PDTREE version 1.14 introduces a flag to ignore tritomies at the root, which are produced by some tree inference programs, updates the guided tour and other examples, adds character names to diagnostic chart axes, and improves support for writing distance matrices.  Thanks to Wayne for several contributions to this release]]>
+			</message>
+		</notice>
+		<notice>
+			<forPackageVersionEqualOrLess>113</forPackageVersionEqualOrLess>
+  			<noticeNumber>7</noticeNumber>
+			<messageType>alert</messageType>
+			<message>
+				<![CDATA[PDAP:PDTREE version 1.13 provides further improvements to scaling on screens 9A and 9B.  Thanks to Michel Laurin for reporting a problem here]]>
+			</message>
+		</notice>
+		<notice>
+		    <forPackageVersionEqualOrLess>112</forPackageVersionEqualOrLess>
+		  	<noticeNumber>6</noticeNumber>
+		  	<messageType>alert</messageType>
+               <message>PDAP:PDTREE version 1.12 works with Mesquite 2.5, operates with the Step Through Trees... command, and should resolve any remaining issues with chart scaling in screens 9A and 9B.
+		 	</message>
+		</notice>
+		<notice>
+		  <forPackageVersionEqualOrLess>111</forPackageVersionEqualOrLess>
+		  <noticeNumber>5</noticeNumber>
+		  <messageType>alert</messageType>
+		  <message>PDAP version 1.11 fixes a bug in the FIC output (files and text to window) where raw contrasts were incorrectly positivized.  Thanks to Betsy Dumont for reporting this problem.
+		    </message>
+		</notice>
+		<notice>
+			<forPackageVersionEqualOrLess>110</forPackageVersionEqualOrLess>
+			<noticeNumber>1</noticeNumber>
+			<messageType>alert</messageType>
+			<message>This notice is to inform you that PDAP:PDTREE now uses the Mesquite Notice system to check for notices to users (such as this one) when it starts up.  This should not cause a delay (if it does, please inform us).  We anticipate notices will be given rarely, when there is an update available or an important bug to tell you about.  This is the only enhanced functionality (not a bug fix) in this release.</message>
+		</notice>
+		<notice>
+			<forPackageVersionEqualOrLess>110</forPackageVersionEqualOrLess>
+			<noticeNumber>2</noticeNumber>
+			<messageType>alert</messageType>
+			<forOS>	
+				<OS>Mac OS X</OS>
+				<OSVersion>10.3</OSVersion>
+			</forOS>
+			<message><![CDATA[<h2>Users of Mac OS X 10.3</h2>The hanging problem encountered when screen 9 asked for a degrees of freedom adjustment has been fixed.
+				Thanks to Anne Peattie for reporting this.]]>
+			</message>
+		</notice>
+		<notice>
+			<forPackageVersionEqualOrLess>110</forPackageVersionEqualOrLess>
+			<noticeNumber>4</noticeNumber>
+			<messageType>alert</messageType>
+			<message><![CDATA[<h2>General bug fixes</h2>This release contains fixes for the following (platform independent) bugs. 
+				<ul><li>Switching between screens 9B and 9 would not reset constained maxima set by the former.  Thanks to David Maddison for reporting this.</li>
+					<li>Prompt windows for degrees of freedom reduction, confidence and prediction interval widths, and Vh would appear, or not appear, unpredictably.
+					With verbose query mode set, these should appear once for each tree change (and once when switching from screen 9 or 9A to 9B.
+					The interval widths should appear exactly once during your session, since these are unlikely to vary within an analysis.</li>
+				</ul>
+				More details in the online release notes (http://mesquiteproject.org/pdap_mesquite/release_notes/rel1_1.html).
+				]]>
+			</message>
+		</notice>
+		<notice>		
+			<forPackageVersionEqualOrLess>110</forPackageVersionEqualOrLess>
+			<noticeNumber>4</noticeNumber>
+			<messageType>alert</messageType>
+			<forOS>	
+				<OS>Mac OS X</OS>
+				<OSVersion>10.3</OSVersion>
+			</forOS>
+		    <message>No specific 10.5 errors have been fixed in this version</message>
+		</notice>
+	</MessagesFromHome>
+</mesquite>

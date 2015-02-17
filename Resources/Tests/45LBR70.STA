@@ -1,0 +1,383 @@
+File = 45lbr70.STA
+
+The Tip data statistics with 
+X = Trait1
+Y = Trait2
+Number of data points: 45
+Minimum of X,Y coordinates:  3.9794000870E-01,-1.3665315400E+00
+Maximum of X,Y coordinates:  3.3010299960E+00, 2.3729120030E+00
+Mean of X,Y coordinates:  1.9197238764E+00, 1.1588629807E+00
+Variance of X,Y coordinates:  5.1045110722E-01, 7.1315073725E-01
+Covariance:  3.0520068058E-01
+Pearson Product-Moment Correlation Coefficient:  5.0584534162E-01
+Reduced Major Axis.
+     Slope:  1.1819894295E+00
+     Y intercept: -1.1102303486E+00
+Major Axis.
+     Slope:  1.3857715982E+00
+     Y intercept: -1.5014358434E+00
+Least Squares Regression.
+     Slope:  5.9790384674E-01
+     Y intercept:  1.1052690360E-02
+     R squared:  2.5587950964E-01
+T statistic:  3.8453010885E+00
+F statistic:  1.4786340461E+01
+Degrees of Freedom: 43
+
+SCREEN 1:
+The statistics for the absolute value of the standardized contrast for 
+    Trait1 vs. its standard deviation (= square root of sum of 
+    corrected branch lengths)
+Number of contrasts: 44
+Minimum of X,Y coordinates:  2.0000000000E+00, 1.8585927943E-03
+Maximum of X,Y coordinates:  9.6695398029E+00, 2.6543078271E-01
+Mean of X,Y coordinates:  4.6372332456E+00, 9.7787847513E-02
+Variance of X,Y coordinates:  4.6294359830E+00, 6.4242191709E-03
+Covariance: -3.2842754864E-02
+Pearson Product-Moment Correlation Coefficient: -1.9044315286E-01
+Reduced Major Axis.
+     Slope: -3.7251703112E-02
+     Y intercept:  2.7053268364E-01
+Major Axis.
+     Slope: -7.1038316905E-03
+     Y intercept:  1.3072997200E-01
+Least Squares Regression.
+     Slope: -7.0943317901E-03
+     Y intercept:  1.3068591875E-01
+     R squared:  3.6268594472E-02
+T statistic: -1.2572220869E+00
+F statistic:  1.5806073757E+00
+Degrees of Freedom: 42
+
+SCREEN 2:
+The statistics for the absolute value of the standardized contrast for 
+    Trait2 vs. its standard deviation (= square root of sum of 
+    corrected branch lengths)
+Number of contrasts: 44
+Minimum of X,Y coordinates:  2.0000000000E+00, 2.0490900031E-03
+Maximum of X,Y coordinates:  9.6695398029E+00, 5.3721170678E-01
+Mean of X,Y coordinates:  4.6372332456E+00, 1.6402910707E-01
+Variance of X,Y coordinates:  4.6294359830E+00, 2.1734387358E-02
+Covariance: -1.2671496432E-01
+Pearson Product-Moment Correlation Coefficient: -3.9947551260E-01
+Reduced Major Axis.
+     Slope: -6.8518786058E-02
+     Y intercept:  4.8176669973E-01
+Major Axis.
+     Slope: -2.7479921038E-02
+     Y intercept:  2.9145991050E-01
+Least Squares Regression.
+     Slope: -2.7371577183E-02
+     Y intercept:  2.9095749477E-01
+     R squared:  1.5958068516E-01
+T statistic: -2.8240136750E+00
+F statistic:  7.9750532367E+00
+Degrees of Freedom: 42
+
+SCREEN 3:
+The statistics for the absolute value of the standardized contrast for 
+    Trait1 vs. the estimated nodal value.
+Number of contrasts: 44
+Minimum of X,Y coordinates:  7.3119899885E-01, 1.8585927943E-03
+Maximum of X,Y coordinates:  3.1901056210E+00, 2.6543078271E-01
+Mean of X,Y coordinates:  1.9154475348E+00, 9.7787847513E-02
+Variance of X,Y coordinates:  3.4858328063E-01, 6.4242191709E-03
+Covariance: -7.3713426618E-03
+Pearson Product-Moment Correlation Coefficient: -1.5576975943E-01
+Reduced Major Axis.
+     Slope: -1.3575533260E-01
+     Y intercept:  3.5782006468E-01
+Major Axis.
+     Slope: -2.1533624044E-02
+     Y intercept:  1.3903437460E-01
+Least Squares Regression.
+     Slope: -2.1146575500E-02
+     Y intercept:  1.3829300342E-01
+     R squared:  2.4264217952E-02
+T statistic: -1.0219783098E+00
+F statistic:  1.0444396657E+00
+Degrees of Freedom: 42
+
+SCREEN 4:
+The statistics for the absolute value of the standardized contrast for 
+    Trait2 vs. the estimated nodal value.
+Number of contrasts: 44
+Minimum of X,Y coordinates:  2.0280961579E-02, 2.0490900031E-03
+Maximum of X,Y coordinates:  2.1318653635E+00, 5.3721170678E-01
+Mean of X,Y coordinates:  1.1492972245E+00, 1.6402910707E-01
+Variance of X,Y coordinates:  3.1265617868E-01, 2.1734387358E-02
+Covariance: -6.7054484971E-03
+Pearson Product-Moment Correlation Coefficient: -8.1343081732E-02
+Reduced Major Axis.
+     Slope: -2.6365753879E-01
+     Y intercept:  4.6704998462E-01
+Major Axis.
+     Slope: -2.3036741052E-02
+     Y intercept:  1.9050516963E-01
+Least Squares Regression.
+     Slope: -2.1446716727E-02
+     Y intercept:  1.8867775908E-01
+     R squared:  6.6166969457E-03
+T statistic: -5.2891616345E-01
+F statistic:  2.7975230796E-01
+Degrees of Freedom: 42
+
+SCREEN 5:
+The statistics for the absolute value of the standardized contrast for 
+    Trait1 vs. the corrected height of the base node of the contrast.
+Number of contrasts: 44
+Minimum of X,Y coordinates:  0.0000000000E+00, 1.8585927943E-03
+Maximum of X,Y coordinates:  1.2564180657E+02, 2.6543078271E-01
+Mean of X,Y coordinates:  9.4261437848E+01, 9.7787847513E-02
+Variance of X,Y coordinates:  8.3309914691E+02, 6.4242191709E-03
+Covariance:  6.8137910523E-02
+Pearson Product-Moment Correlation Coefficient:  2.9453051190E-02
+Reduced Major Axis.
+     Slope:  2.7769101612E-03
+     Y intercept: -1.6396769706E-01
+Major Axis.
+     Slope:  8.1789107276E-05
+     Y intercept:  9.0078288660E-02
+Least Squares Regression.
+     Slope:  8.1788477129E-05
+     Y intercept:  9.0078348059E-02
+     R squared:  8.6748222440E-04
+T statistic:  1.9096043290E-01
+F statistic:  3.6465886934E-02
+Degrees of Freedom: 42
+
+SCREEN 6:
+The statistics for the absolute value of the standardized contrast for 
+    Trait2 vs. the corrected height of the base node of the contrast.
+Number of contrasts: 44
+Minimum of X,Y coordinates:  0.0000000000E+00, 2.0490900031E-03
+Maximum of X,Y coordinates:  1.2564180657E+02, 5.3721170678E-01
+Mean of X,Y coordinates:  9.4261437848E+01, 1.6402910707E-01
+Variance of X,Y coordinates:  8.3309914691E+02, 2.1734387358E-02
+Covariance:  1.1533001753E+00
+Pearson Product-Moment Correlation Coefficient:  2.7103183888E-01
+Reduced Major Axis.
+     Slope:  5.1076997115E-03
+     Y intercept: -3.1743001183E-01
+Major Axis.
+     Slope:  1.3843827088E-03
+     Y intercept:  3.3535202413E-02
+Least Squares Regression.
+     Slope:  1.3843492453E-03
+     Y intercept:  3.3538356729E-02
+     R squared:  7.3458257688E-02
+T statistic:  1.8247881919E+00
+F statistic:  3.3298519452E+00
+Degrees of Freedom: 42
+
+SCREEN 7:
+The statistics for estimated base node value for Trait1 vs. its base
+    node's corrected height.
+Number of data points: 44
+Minimum of X,Y coordinates:  0.0000000000E+00, 7.3119899885E-01
+Maximum of X,Y coordinates:  1.2564180657E+02, 3.1901056210E+00
+Mean of X,Y coordinates:  9.4261437848E+01, 1.9154475348E+00
+Variance of X,Y coordinates:  8.3309914691E+02, 3.4858328063E-01
+Covariance: -9.7803330059E-01
+Pearson Product-Moment Correlation Coefficient: -5.7392087415E-02
+Reduced Major Axis.
+     Slope: -2.0455256586E-02
+     Y intercept:  3.8435894322E+00
+Major Axis.
+     Slope: -1.1744596693E-03
+     Y intercept:  2.0261537919E+00
+Least Squares Regression.
+     Slope: -1.1739698741E-03
+     Y intercept:  2.0261076232E+00
+     R squared:  3.2938516979E-03
+T statistic: -3.7255731704E-01
+F statistic:  1.3879895448E-01
+Degrees of Freedom: 42
+
+SCREEN 8:
+The statistics for estimated base node value for Trait2 vs. its base
+    node's corrected height.
+Number of data points: 44
+Minimum of X,Y coordinates:  0.0000000000E+00, 2.0280961579E-02
+Maximum of X,Y coordinates:  1.2564180657E+02, 2.1318653635E+00
+Mean of X,Y coordinates:  9.4261437848E+01, 1.1492972245E+00
+Variance of X,Y coordinates:  8.3309914691E+02, 3.1265617868E-01
+Covariance: -8.4270103646E-01
+Pearson Product-Moment Correlation Coefficient: -5.2214566341E-02
+Reduced Major Axis.
+     Slope: -1.9372477400E-02
+     Y intercept:  2.9753747989E+00
+Major Axis.
+     Slope: -1.0119042311E-03
+     Y intercept:  1.2446807723E+00
+Least Squares Regression.
+     Slope: -1.0115255064E-03
+     Y intercept:  1.2446450732E+00
+     R squared:  2.7263609382E-03
+T statistic: -3.3885129587E-01
+F statistic:  1.1482020072E-01
+Degrees of Freedom: 42
+
+SCREEN 9:
+The positivized standardized contrasts statistics with 
+X = Trait1
+Y = Trait2
+Number of contrasts: 44
+Minimum of X,Y coordinates:  1.8585927943E-03,-2.6515138150E-01
+Maximum of X,Y coordinates:  2.6543078271E-01, 5.3721170678E-01
+Mean of X,Y coordinates: zero, zero
+Variance of X,Y coordinates:  1.6209065155E-02, 4.9265645743E-02
+Covariance:  2.0878197434E-02
+Pearson Product-Moment Correlation Coefficient:  7.3882558504E-01
+Reduced Major Axis.
+     Slope:  1.7433842003E+00
+     Y intercept: zero
+Major Axis.
+     Slope:  2.0670803790E+00
+     Y intercept: zero
+Least Squares Regression.
+     Slope:  1.2880568518E+00
+     Y intercept: zero
+     R squared:  5.4586324512E-01
+T statistic:  7.1892374507E+00
+F statistic:  5.1685135122E+01
+Degrees of Freedom: 43
+Number of Y contrasts > 0 : 28
+Number of Y contrasts < 0 : 16
+Number of Y contrasts = 0 : 0
+
+SCREEN 9A:
+The statistics pertaining to estimated root node values.
+
+Note: the following statistics can also be saved as a .RT file.
+
+Number of tips:  45
+Number of independent contrasts:  44
+Number of branches of 0 length:  0
+User-specified degrees of freedom reduction for computing C.I.'s:  0
+
+Slope (least squares):             1.2880568518E+00
+ Standard Error:                   1.7916459995E-01
+ Lower 95% Confidence Interval:    9.2673700528E-01
+ Upper 95% Confidence Interval:    1.6493766983E+00
+Intercept (least squares):        -1.5190016747E+00
+ Standard Error:                   6.2370174314E-01   / as mapped back onto \
+ Lower 95% Confidence Interval:   -2.7768160988E+00  |  the original data    |
+ Upper 95% Confidence Interval:   -2.6118725071E-01   \ space               /
+
+                                            X = Trait 1       Y = Trait 2
+Estimated Root Node Values:               2.0278880336E+00  1.0930334015E+00
+Rates of Evolution:                       1.5840677311E-02  4.8145971976E-02
+Standard Errors of Root Node Estimates:   4.2656631119E-01  7.4366896733E-01
+Lower 95% Confidence Intervals:           1.1682001334E+00 -4.0573290084E-01
+Upper 95% Confidence Intervals:           2.8875759338E+00  2.5917997039E+00
+
+
+
+SCREEN 9B:
+
+Prediction intervals for hypothetical species added at the
+root, with a branch length equal to the mean height of
+of the tree.
+
+Mean Tip height is  7.0000000000E+01
+Tips are contemporaneous.
+
+
+
+For a tip on a branch of length  7.0000000000E+01
+
+Lower 95% Prediction interval for Trait 1: -2.6184467095E-01
+Upper 95% Prediction interval for Trait 1:  4.3176207381E+00
+Lower 90% Prediction interval for Trait 1:  1.1891736731E-01
+Upper 90% Prediction interval for Trait 1:  3.9368586999E+00
+Lower 95% Prediction interval for Trait 2: -2.8988504185E+00
+Upper 95% Prediction interval for Trait 2:  5.0849172216E+00
+Lower 90% Prediction interval for Trait 2: -2.2350358969E+00
+Upper 90% Prediction interval for Trait 2:  4.4211027000E+00
+
+
+SCREEN 10:
+The statistics of the residuals vs. X plot (from Screen 9).
+Number of contrasts: 44
+Minimum of X,Y coordinates:  1.8585927943E-03,-3.6586743087E-01
+Maximum of X,Y coordinates:  2.6543078271E-01, 3.5607343861E-01
+Mean of X,Y coordinates: zero, -1.3552331880E-02
+Variance of X,Y coordinates:  1.6209065155E-02, 2.2185403490E-02
+Covariance:  1.3560732090E-03
+Pearson Product-Moment Correlation Coefficient:  7.1510610568E-02
+
+
+SCREEN 11:
+The statistics of the absolute value of residuals verses the
+    height of their base node.
+Number of contrasts: 44
+Minimum of X,Y coordinates:  0.0000000000E+00, 1.9921579055E-03
+Maximum of X,Y coordinates:  1.2564180657E+02, 3.6586743087E-01
+Mean of X,Y coordinates:  9.4261437848E+01, 1.1356019623E-01
+Variance of X,Y coordinates:  8.3309914691E+02, 9.1775172430E-03
+Covariance:  1.5532752601E-01
+Pearson Product-Moment Correlation Coefficient:  5.6174274946E-02
+Reduced Major Axis.
+     Slope:  3.3190535521E-03
+     Y intercept: -1.9929856388E-01
+Major Axis.
+     Slope:  1.8644747424E-04
+     Y intercept:  9.5985389226E-02
+Least Squares Regression.
+     Slope:  1.8644542679E-04
+     Y intercept:  9.5985582221E-02
+     R squared:  3.1555491657E-03
+T statistic:  3.6462666309E-01
+F statistic:  1.3295260344E-01
+
+
+The following is 45lbr70.FIC
+                                                                                                                                             UnCorrected       Corrected        First                        Second
+                                                                                                                                             Average           Average          Daughter  Corrected          Daughter  Corrected
+Contrast Node  Contrast          Contrast          S.D.              Node              Node              UnCorrected       Corrected         Daughter          Daughter         Branch    First Daughter     Branch    Second Daughter
+Name     Name  Trait 1           Trait 2                             Trait 1           Trait 2           Node Height       Node Height       Node Height       Node Height      Name      Branch Length      Name      Branch Length
+03-02    01    1.1213032362E+00 -1.6890888199E-01  6.8379418862E+00  2.0278880336E+00  1.0930334015E+00  0.0000000000E+00  0.0000000000E+00  8.0000000000E+00  2.3378724619E+01 03-01     2.6456211557E+01   02-01     2.0301237681E+01
+05-10    03    5.3392740683E-01  9.2376560921E-01  8.0535433950E+00  1.3934343557E+00  1.1886051059E+00  1.2000000000E+01  2.6456211557E+01  3.1000000000E+01  5.8885992165E+01 05-03     2.1749559083E+01   10-03     4.3110002133E+01
+06-22    05    4.1109300800E-01 -2.1662490240E-01  8.3806167569E+00  1.2143908121E+00  8.7883590120E-01  1.8000000000E+01  4.8205770640E+01  4.3500000000E+01  8.3323139253E+01 06-05     2.3845126836E+01   22-05     4.6389610390E+01
+95-93    06    1.6749726362E+00  1.8767812964E+00  8.2517215835E+00  1.3539594259E+00  8.0529040964E-01  2.6000000000E+01  7.2050897476E+01  5.3500000000E+01  1.0609635202E+02 95-06     4.3000000000E+01   93-06     2.5090909091E+01
+Tm-Ur    95    2.3053385000E-02  1.4492749700E-01  2.0000000000E+00  2.4117191815E+00  1.9904940855E+00  6.8000000000E+01  1.1505089748E+02  7.0000000000E+01  1.1705089748E+02 Tm-95     2.0000000000E+00   Ur-95     2.0000000000E+00
+92-07    93    1.3076359400E-02 -1.2968255565E-01  7.0356236397E+00  7.3674654526E-01  1.1371278906E-01  3.9000000000E+01  9.7141806567E+01  5.7500000000E+01  1.2189180657E+02 92-93     2.8500000000E+01   07-93     2.1000000000E+01
+Nn-pl    92    2.0164536350E-01  3.5715552200E-02  3.1622776602E+00  7.4427535825E-01  3.9047075200E-02  6.5000000000E+01  1.2564180657E+02  7.0000000000E+01  1.3064180657E+02 Nn-92     5.0000000000E+00   pl-92     5.0000000000E+00
+Mp-Ml    07    6.6651798030E-01 -4.5842075570E-01  6.3245553203E+00  7.3119899885E-01  1.6872963085E-01  5.0000000000E+01  1.1814180657E+02  7.0000000000E+01  1.3814180657E+02 Mp-07     2.0000000000E+01   Ml-07     2.0000000000E+01
+28-Uc    22    6.0102461298E-01  1.5729217139E+00  3.7996710384E+00  9.4286641791E-01  1.0219153120E+00  6.1000000000E+01  9.4595381030E+01  6.7000000000E+01  1.0181413103E+02 28-22     5.4375000000E+00   Uc-22     9.0000000000E+00
+32-Ca    28    3.7851564612E-01  1.1036176956E+00  3.1788776570E+00  1.1692263371E+00  1.6143143991E+00  6.4000000000E+01  1.0003288103E+02  6.8500000000E+01  1.0508551261E+02 32-28     4.1052631579E+00   Ca-28     6.0000000000E+00
+34-Lp    32    3.4783177000E-02 -2.2397975050E-01  2.1794494718E+00  1.3229983183E+00  2.0626590879E+00  6.7000000000E+01  1.0413814419E+02  6.8750000000E+01  1.0651314419E+02 34-32     1.7500000000E+00   Lp-32     3.0000000000E+00
+Cp-Ct    34    4.2392306400E-01  6.5385543700E-01  2.2360679775E+00  1.3358131730E+00  1.9801402325E+00  6.7500000000E+01  1.0588814419E+02  7.0000000000E+01  1.0838814419E+02 Cp-34     2.5000000000E+00   Ct-34     2.5000000000E+00
+18-23    10    3.3429021274E-01  2.1944392740E-02  6.6762447039E+00  1.7483182189E+00  1.8026015104E+00  4.4000000000E+01  6.9566213690E+01  6.3000000000E+01  9.1852335363E+01 18-10     2.3500000000E+01   23-10     2.1072243346E+01
+Hh-Cc    18    2.8786855000E-01 -7.8618334500E-01  3.1622776602E+00  1.5720690690E+00  1.7910316815E+00  6.5000000000E+01  9.3066213690E+01  7.0000000000E+01  9.8066213690E+01 Hh-18     5.0000000000E+00   Cc-18     5.0000000000E+00
+Aj-35    23    2.5018232194E-01  3.6316782813E-02  4.0543186851E+00  1.9063592817E+00  1.8129760742E+00  6.1000000000E+01  9.0638457036E+01  6.8750000000E+01  9.8857207036E+01 Aj-23     9.0000000000E+00   35-23     7.4375000000E+00
+Pp-36    35    4.8036537750E-01  7.4227263650E-01  2.0000000000E+00  2.0195596479E+00  1.8294083828E+00  6.7500000000E+01  9.8075957036E+01  6.9000000000E+01  1.0007595704E+02 Pp-35     2.5000000000E+00   36-35     1.5000000000E+00
+Pt-Pl    36    1.4258423000E-02 -5.3030276300E-01  2.0000000000E+00  2.1996966645E+00  2.1077606215E+00  6.8000000000E+01  9.9575957036E+01  7.0000000000E+01  1.0157595704E+02 Pt-36     2.0000000000E+00   Pl-36     2.0000000000E+00
+04-88    02    3.7811707981E-01 -1.5073254712E-01  8.1467319375E+00  2.5147375919E+00  1.0196962239E+00  4.0000000000E+00  2.0301237681E+01  2.0500000000E+01  5.3485858312E+01 04-02     2.8789365251E+01   88-02     3.7579876010E+01
+99-26    04    3.9900896333E-01 -7.6905083292E-01  9.0422360114E+00  2.6787555995E+00  9.5431210515E-01  1.4000000000E+01  4.9090602932E+01  4.1500000000E+01  8.9971618975E+01 99-04     2.9262032086E+01   26-04     5.2500000000E+01
+Tb-16    99    7.9216561200E-01  7.0694312595E-01  9.6695398029E+00  2.8215579833E+00  6.7907444808E-01  2.0000000000E+01  7.8352635018E+01  6.3500000000E+01  1.2510263502E+02 Tb-99     5.0000000000E+01   16-99     4.3500000000E+01
+Cs-Db    16    2.2184875000E-01 -3.7030295270E-01  5.0990195136E+00  3.1901056210E+00  1.0079731217E+00  5.7000000000E+01  1.2185263502E+02  7.0000000000E+01  1.3485263502E+02 Cs-16     1.3000000000E+01   Db-16     1.3000000000E+01
+Eh-Ec    26    2.4303804800E-01 -1.9188552600E-01  3.7416573868E+00  2.4225490200E+00  1.4481252810E+00  6.3000000000E+01  1.0159060293E+02  7.0000000000E+01  1.0859060293E+02 Eh-26     7.0000000000E+00   Ec-26     7.0000000000E+00
+77-08    88    1.0169526567E-01 -4.4498540153E-01  7.7224841763E+00  2.3006385197E+00  1.1050446523E+00  2.7000000000E+01  5.7881113692E+01  5.1000000000E+01  8.7699494619E+01 77-88     3.4250000000E+01   08-88     2.5386761853E+01
+Lg-Cd    77    7.6263908400E-01  2.3010299960E+00  5.9160797831E+00  2.3590431470E+00  8.4948500200E-01  5.2500000000E+01  9.2131113692E+01  7.0000000000E+01  1.0963111369E+02 Lg-77     1.7500000000E+01   Cd-77     1.7500000000E+01
+Gc-09    08    9.0092700801E-01  7.3663054239E-01  4.8846590745E+00  2.2573478813E+00  1.2944704035E+00  4.9500000000E+01  8.3267875545E+01  6.0000000000E+01  9.5197822682E+01 Gc-08     2.0500000000E+01   09-08     3.3598942741E+00
+12-11    09    2.7158369079E-01  4.5901368181E-01  3.5428799197E+00  2.1304814560E+00  1.1907398206E+00  5.0000000000E+01  8.6627769819E+01  5.0500000000E+01  9.2903768882E+01 12-09     4.4076370345E+00   11-09     8.1443610910E+00
+24-13    12    1.0533937063E+00  1.2867621435E+00  3.9686192216E+00  2.2258481316E+00  1.3519225808E+00  5.0500000000E+01  9.1035406854E+01  5.2500000000E+01  9.8910376117E+01 24-12     8.5606060606E+00   13-12     7.1893324656E+00
+98-To    24    1.5628299800E-01  1.8985731050E-01  5.7445626465E+00  2.7984020201E+00  2.0513198378E+00  5.1000000000E+01  9.9596012915E+01  6.5000000000E+01  1.1609601291E+02 98-24     1.4000000000E+01   To-24     1.9000000000E+01
+Sc-Bb    98    1.4462441800E-01 -1.6027445000E-02  4.4721359550E+00  2.8647038980E+00  2.1318653635E+00  6.0000000000E+01  1.1359601291E+02  7.0000000000E+01  1.2359601291E+02 Sc-98     1.0000000000E+01   Bb-98     1.0000000000E+01
+19-14    13    8.6409383861E-01  1.2305734234E+00  3.9288328278E+00  1.7450083138E+00  7.6455769433E-01  5.4000000000E+01  9.8224739319E+01  5.6750000000E+01  1.0594260301E+02 19-13     9.3358531317E+00   14-13     6.0998742569E+00
+90-Mk    19    8.6396320072E-01  2.2891058404E+00  4.2610870380E+00  1.2223861551E+00  2.0280961579E-02  5.9000000000E+01  1.0756059245E+02  6.6500000000E+01  1.1663902382E+02 90-19     7.1568627451E+00   Mk-19     1.1000000000E+01
+27-Ac    90    2.0214329000E-02 -1.9973957620E-01  3.5707142143E+00  1.5629332050E+00  9.2257430040E-01  6.3000000000E+01  1.1471745520E+02  6.8750000000E+01  1.2109245520E+02 27-90     5.7500000000E+00   Ac-90     7.0000000000E+00
+Gg-Gt    27    4.8412615600E-01  5.7675412640E-01  2.2360679775E+00  1.5538169390E+00  1.0126529328E+00  6.7500000000E+01  1.2046745520E+02  7.0000000000E+01  1.2296745520E+02 Gg-27     2.5000000000E+00   Gt-27     2.5000000000E+00
+97-91    14    1.6109618213E-01 -9.8418740092E-03  4.8030462275E+00  2.0864799937E+00  1.2508543850E+00  5.4500000000E+01  1.0432461358E+02  6.3500000000E+01  1.1585924011E+02 97-14     1.3500000000E+01   91-14     9.5692530635E+00
+Oa-Oc    97    1.2557693600E-01  2.0073521100E-01  2.8284271247E+00  1.9922073940E+00  1.2566137955E+00  6.6000000000E+01  1.1782461358E+02  7.0000000000E+01  1.2182461358E+02 Oa-97     4.0000000000E+00   Oc-97     4.0000000000E+00
+He-20    91    3.0618093948E-01  9.9597279278E-01  3.6956242895E+00  2.1533035761E+00  1.2467719215E+00  6.1000000000E+01  1.1389386664E+02  6.6750000000E+01  1.2072268608E+02 He-91     9.0000000000E+00   20-91     4.6576388889E+00
+Am-30    20    4.8284555354E-01  4.8997960559E-01  3.1192514695E+00  2.0488872665E+00  9.0711719422E-01  6.3500000000E+01  1.1855150553E+02  6.7250000000E+01  1.2341637039E+02 Am-20     6.5000000000E+00   30-20     3.2297297297E+00
+Cu-33    30    2.1071262100E-01  1.3543649205E+00  3.0413812651E+00  2.2091651655E+00  1.0697632022E+00  6.4500000000E+01  1.2178123526E+02  6.8250000000E+01  1.2640623526E+02 Cu-30     5.5000000000E+00   33-30     3.7500000000E+00
+Dl-Ab    33    1.9595556000E-02  3.5654732350E-01  2.6457513111E+00  2.1237411300E+00  5.2069634255E-01  6.6500000000E+01  1.2553123526E+02  7.0000000000E+01  1.2903123526E+02 Dl-33     3.5000000000E+00   Ab-33     3.5000000000E+00
+Aa-17    11    4.1990495459E-01 -1.7614204401E-01  5.6633334053E+00  1.9542644408E+00  8.9290889895E-01  5.0500000000E+01  9.4772130910E+01  6.4500000000E+01  1.1080880354E+02 Aa-11     1.9500000000E+01   17-11     1.2573345259E+01
+96-37    17    1.8510913412E-02  3.8561321142E-01  4.0547720615E+00  2.1188749586E+00  8.2385795599E-01  5.9000000000E+01  1.0734547617E+02  6.5250000000E+01  1.1556606441E+02 96-17     9.0000000000E+00   37-17     7.4411764706E+00
+cc-Dd    96    7.3675856600E-01  9.9765517270E-01  2.8284271247E+00  2.1087419720E+00  6.1277093865E-01  6.6000000000E+01  1.1634547617E+02  7.0000000000E+01  1.2034547617E+02 cc-96     4.0000000000E+00   Dd-96     4.0000000000E+00
+Al-38    37    7.0639379600E-01  3.2213721280E-01  2.9154759474E+00  2.1272528854E+00  9.9838415007E-01  6.4500000000E+01  1.1478665264E+02  6.7500000000E+01  1.1903665264E+02 Al-37     5.5000000000E+00   38-37     3.0000000000E+00
+Rt-Ov    38    2.4412514400E-01  1.1848651836E+00  3.1622776602E+00  1.8779374280E+00  8.8468866320E-01  6.5000000000E+01  1.1778665264E+02  7.0000000000E+01  1.2278665264E+02 Rt-38     5.0000000000E+00   Ov-38     5.0000000000E+00

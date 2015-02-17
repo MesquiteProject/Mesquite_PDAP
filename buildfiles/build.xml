@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<!-- ====================================================================== 
+     Created Oct 10, 2006 10:30:05 AM                                                        
+     Last update June 13, 2010
+     
+     This is the build file for the pdap mesquite module
+                   
+     peter                                                                
+     ====================================================================== -->
+<project name="pdap" default="buildAll" basedir="..">
+    <description>
+            description
+    </description>
+	<property name="sourceDir" location="${basedir}/src"/>
+	<property name="sourceLib" location="${sourceDir}/lib"/>
+	<property name="resourcesDir" location="${basedir}/Resources"/>
+	<property name="buildDir" location="${basedir}/build"/>
+	<property name="targetDir" location= "${basedir}/targets"/>
+	<property name="mesquiteDir" location= "${basedir}/../MesquiteCore"/>
+	<path id="mesquitePath">
+    	<pathelement location="${mesquiteDir}/Mesquite_Folder"/>
+     	<pathelement location="${mesquiteDir}/jars/JSci.zip"/>
+	</path>
+	<property name="destOSX" location ="${targetDir}/OSX"/>
+	<property name="destWindows" location= "${targetDir}/Windows"/>
+	<property name="destLinux" location="${targetDir}/Linux"/>
+
+
+	
+	<!-- ================================= 
+          target: init              
+         ================================= -->
+    <target name="init"  description="--> description">
+    	<mkdir dir="${buildDir}"/>
+    	<mkdir dir="${targetDir}"/>
+    </target>
+
+	
+	<!-- ================================= 
+          target: compile    
+         ================================= -->
+    <target name="compile" depends="init" description="--> compiles all source">
+       <javac srcdir="${sourceDir}"
+         destdir="${buildDir}"
+         debug="on"
+         target="1.4"
+         source="1.4">
+         <classpath refid="mesquitePath"/>
+         </javac>
+    	<copy todir="${buildDir}/mesquite/pdap/aPDAPintro">
+    		<fileset dir="${sourceDir}/mesquite/pdap/aPDAPintro">
+    			<include name="index.html"/>
+    			<include name="splash.gif"/>
+    		</fileset>
+    	</copy>
+    </target>
+	
+	<!-- - - - - - - - - - - - - - - - - - 
+          target: debugCompile                      
+         - - - - - - - - - - - - - - - - - -->
+    <target name="debugCompile">
+        <javac srcdir="${sourceDir}"
+         destdir="${buildDir}"
+         classpath="jarfile"
+         debug="on"/>
+    </target>
+
+	
+	<!-- ================================= 
+          target: build              
+         ================================= -->
+    <target name="buildAll" 
+    	depends="buildOSX,buildWindows,buildLinux,buildSource" 
+    	description="--> buildsEverything">
+        
+    </target>
+
+	<!-- ================================= 
+          target: buildOSX           
+         ================================= -->
+    <target name="buildOSX" depends="compile" description="--> builds for Mac OSX">
+    	<property name="OSXClasses" location="${destOSX}/Pdap/Put in Mesquite Directory"/>
+    	<property name="OSXExamples" location = "${destOSX}/Pdap/Examples"/>
+    	<copy todir="${OSXClasses}">
+    		<fileset dir="${buildDir}/mesquite"/>
+    	</copy>
+    	<copy todir="${OSXExamples}">
+    		<fileset dir="${resourcesDir}/pdap_examples">
+    			<include name="**/*"/>
+    		</fileset>
+    	</copy>
+		<!-- create .dmg, based on Danny Mandel's Mesquite ant script -->
+		<exec executable="hdiutil" failonerror="false" os="Mac OS X">
+			<arg value="create" />
+			<arg value="-srcfolder" />
+			<arg value="${destOSX}/Pdap" />
+			<arg value="-fs" />
+			<arg value="HFS+" />
+			<arg value="-format"/>
+			<arg value="UDZO"/>
+			<arg value="${targetDir}/pdap.dmg" />
+		</exec>
+    	<exec executable="hdiutil" failonerror="false" os="Mac OS X">
+    		<arg value="verify" />
+			<arg value="${targetDir}/pdap.dmg" />    		
+    	</exec>
+
+    </target>
+	
+	<!-- ================================= 
+          target: buildWindows              
+         ================================= -->
+    <target name="buildWindows" depends="compile" description="--> builds for Windows">
+    	<property name="WindowsClasses" location="${destWindows}/Pdap/Put in Mesquite Directory"/>
+    	<property name="WindowsExamples" location = "${destWindows}/Pdap/Examples"/>
+    	<copy todir="${WindowsClasses}">
+    		<fileset dir="${buildDir}/mesquite"/>
+    	</copy>
+    	<copy todir="${WindowsExamples}">
+    		<fileset dir="${resourcesDir}/pdap_examples">
+    			<include name="**/*"/>
+    		</fileset>
+    	</copy>
+    	<zip basedir="${destWindows}/Pdap" destfile="${targetDir}/pdap.zip">
+    	</zip>
+        
+    </target>
+
+	<!-- ================================= 
+          target: buildLinux              
+         ================================= -->
+    <target name="buildLinux" depends="compile" description="--> builds for Linux">
+    	<property name="LinuxClasses" location="${destLinux}/Pdap/Put in Mesquite Directory"/>
+		<property name="LinuxExamples" location="${destLinux}/Pdap/Examples"/>
+    	<copy todir="${LinuxClasses}">
+    		<fileset dir="${buildDir}"/>
+    	</copy>
+		<copy todir="${LinuxExamples}">
+			<fileset dir="${resourcesDir}/pdap_examples">
+				<include name="**/*"/>
+			</fileset>
+        </copy>
+    	<tar basedir="${destLinux}/Pdap" destfile="${targetDir}/pdap.tgz"
+			compression="gzip"
+    	/>
+    </target>
+	
+	<!-- ================================= 
+          target: buildSource              
+         ================================= -->
+    <target name="buildSource" depends="init" description="--> just packages the source">
+        <tar basedir="${sourceDir}" destfile="${targetDir}/pdap_src.tgz"
+    	     excludes = "bin/**, build/**, jars/**, targets/**, target_templates/**, .project , .classpath, .fbwarnings"
+			 compression="gzip"
+        />
+    	<zip basedir="${sourceDir}" destfile="${targetDir}/pdap_src.zip"
+    	     excludes = "**/*.zip"/>
+		<exec executable="hdiutil" failonerror="false" os="Mac OS X">
+			<arg value="create" />
+			<arg value="-srcfolder" />
+			<arg value="${sourceDir}" />
+			<arg value="-fs" />
+			<arg value="HFS+" />
+			<arg value="-format"/>
+			<arg value="UDZO"/>
+			<arg value="${targetDir}/pdap_src.dmg" />
+		</exec>
+    	<exec executable="hdiutil" failonerror="false" os="Mac OS X">
+    		<arg value="verify" />
+			<arg value="${targetDir}/pdap_src.dmg" />    		
+    	</exec>
+
+    </target>
+
+
+	
+	<!-- ================================= 
+          target: clean              
+         ================================= -->
+    <target name="clean" description="--> cleans up">
+    	<delete>
+			<fileset dir="${buildDir}">
+			</fileset>
+    		<fileset dir="${destOSX}">
+    	    </fileset>
+    		<fileset dir="${destWindows}">
+    		</fileset>
+    		<fileset dir="${destLinux}">
+    		</fileset>
+    		<fileset dir="${targetDir}">
+    			<include name="*.zip"/>
+    			<include name="*.tgz"/>
+    			<include name="*.dmg"/>
+    		</fileset>
+    		<fileset dir="${destOSX}">
+    			<include name="Pdap.dmg"/>
+    		</fileset>
+		</delete>
+    </target>
+
+
+</project>

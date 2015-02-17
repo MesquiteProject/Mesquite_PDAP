@@ -1,0 +1,1148 @@
+#NEXUS
+[written Thu Oct 19 20:09:39 EDT 2006 by Mesquite  version 1.12 (build h66) at PennG.local/192.168.1.2]
+
+BEGIN TAXA;
+	TITLE Untitled_Block_of_Taxa;
+	DIMENSIONS NTAX=493;
+	TAXLABELS
+		A1_Ceryle_alcyon A2_Gallinula_chloropus A3_Porphyrula_martinica A4_Rallus_longirostris A5_Porzana_carolina A6_Laterallus_jamaicensis A7_Fulica_americana A8_Ardeotis_kori A9_Aramus_guarauna 10_Arenaria_interpres 11_Gallinago_gallinago 12_Phalaropus_lobatus 13_Phalaropus_tricolor 14_Calidris_alba 15_Calidris_pusilla 16_Calidris_melanotus 17_Calidris_canutus 18_Charadrius_vociferus 19_Pluvialis_squatorola 20_Haematopus_palliatus 21_Recurvirostra_americana 22_Fratercula_cirrhata 23_Rhynchops_niger 24_Larus_californicus 25_Larus_atricilla 26_Larus_argentatus 27_Larus_delawarensis 28_Larus_hyperboreus 29_Sterna_maxima 30_Sterna_caspia 31_Sterna_antillarum 32_Sterna_hirundo 33_Pandion_haliaetus 34_Sagittarius_serpentarius 35_Milvus_milvus 36_Pernis_apivorus 37_Accipiter_striatus 38_Accipiter_cooperii 39_Accipiter_nisus 40_Accipiter_gentilis 41_Buteo_platypterus 42_Buteo_lineatus 43_Buteo_jamaicensis 44_Buteo_buteo 45_Falco_sparverius 46_Falco_mexicanus 47_Falco_tinnunculus 48_Falco_peregrinus 49_Falco_subbeteo 50_Podiceps_nigricollis 51_Tachybaptus_dominicus 52_Podilymbus_podiceps 53_Phalacrocorax_auritus 54_Anhinga_anhinga 55_Sula_bassanus 56_Sula_capensis 57_Ixobrychus_exilis 58_Botaurus_lentiginosus 59_Butorides_striatus 60_Ardea_herodia 61_Nyctorax_nycticorax 62_Nyctanassa_violacea 63_Bulbulcus_ibis 64_Egretta_thula 65_Egretta_rufescens 66_Egretta_caerulea 67_Phoenicopterus_ruber 68_Phoeniconaias_minor 69_Eudocimus_albus 70_Ajaja_ajaja 71_Pelecanus_occidentalis 72_Cathartes_aura 73_Mycteria_americana 74_Pygoscelis_papua 75_Aptenodytes_patagonica 76_Eudyptes_chrysocome_d1 77_Eudyptes_chrysocome_d2 78_Gavia_immer 79_Calonectris_diomedea 80_Diomedea_immutabilis 81_Oceanites_oceanicus 82_Phoebetria_fusca 83_Phoebetria_palpebrata 84_Puffinus_lherminieri 85_Puffinus_gravis 86_Columba_livia 87_Streptopelia_risoria 88_Columbina_passerina 89_Zenaida_macroura 90_Zenaida_asiatica 91_Phainopepla_nitens 92_Bombycilla_cedrorum 93_Bombycilla_garrulus 94_Ficedula_hypoleuca 95_Erithacus_rubecula 96_Phoenicurus_ochruros 97_Phoenicurus_phoenicurus 98_Hylocichla_mustelina 99_Hylocichla_guttata B1_Turdus_grayi B2_Turdus_rufopalliatus B3_Turdus_merula B4_Turdus_philomelos B5_Turdus_migratorius B6_Turdus_pilaris B7_Catharus_aurantiirostris B8_Catharus_ustulatus B9_Catharus_guttatus C1_Catharus_minimus C2_Dumetella_carolinensis C3_Mimus_polyglottos C4_Sturnus_vulgaris C5_Motacilla_alba C6_Prunella_modularis C7_Passer_domesticus C8_Passer_montanus C9_Pipilo_erythrophthalmus D1_Sporophila_aurita D2_Melospiza_melodia D3_Fringilla_coelebs D4_Pyrrhula_pyrrhula D5_Pinicola_enucleator D6_Loxia_pytyopsittacus D7_Cacicus_melanicterus D8_Agelaius_phoeniceus D9_Molothrus_ater E1_Parula_americana E2_Mniotilta_varia E3_Diglossa_baritula E4_Ramphocelus_passerinii E5_Tangara_icterocephala E6_Passerina_leclancherii E7_Thraupis_virens E8_Piranga_olivacea E9_Saltator_coerulescens F1_Geothlypis_trichas F2_Junco_hyemalis F3_Spizella_passerina F4_Spizella_pusilla F5_Carduelis_carduelis F6_Carduelis_chloris F7_Coccothrauses_coccothraustes F8_Coccothraustes_vespertinus F9_Serinus_canarius_d2 G1_Serinus_canarius_d1 G2_Icterus_spurius G3_Icterus_pustulatus G4_Quiscalus_quiscula G5_Quiscalus_major G6_Quiscalus_mexicanus G7_Dendroica_coronata G8_Dendroica_pinus G9_Vermivora_ruficapilla H1_Vermivora_celata H2_Phylloscopus_collybita H3_Phylloscopus_trochilus H4_Sylvia_atricapilla H5_Sylvia_communis H6_Sylvia_melanocephala H7_Sylvia_borin H8_Regulus_ignicapillus H9_Regulus_regulus J1_Regulus_calendula J2_Hirundo_rustica J3_Tachycineta_bicolor J4_Progne_subis J5_Stelgidopteryx_ruficollis J6_Parus_caeruleus J7_Parus_major J8_Parus_carolinensis J9_Parus_bicolor K1_Sitta_carolinensis K2_Microcerculus_philomela K3_Troglodytes_aedon_ K4_Troglodytes_troglodytes K5_Garrulus_glandarius K6_Cyanocitta_cristata K7_Corvus_corax K8_Corvus_frugilegus K9_Icteria_virens L1_Hylophilus_ochraceiceps L2_Vireo_flavifrons L3_Vireo_solitarius L4_Lanius_senator L5_Lanius_ludovicianus L6_Myrmotherula_schisticolor L7_Gymnopithus_bicolor_leucapsis L8_Formicarius_analis L9_Hylopezus_perspicillatus_Grallaria_perspicillata M1_Automolus_ochrolaemus M2_Glyphorhynchus_spirurus M3_Dendrocincla_anabatina M4_Dendrocolaptes_certhia M5_Schiffornis_turdinus M6_Phytotoma_rara M7_Pipra_mentalis M8_Manacus_vitellinus M9_Empidonax_difficilis N1_Pitangus_sulphuratus N2_Myiozetetes_similis N3_Elaenia_flavogaster N4_Platyrinchus_coronatus N5_Terrenotricus_erythrurus N6_Mionectes_oleagineus_Pipromorpha_oleaginea N7_Tyrannus_melancholicus N8_Tyto_alba N9_Strix_varia P1_Bubo_virginianus P2_Athene_cunicularia P3_Otus_asio P4_Otus_kennicottii P5_Caprimulgus_carolinensis P6_Caprimulgus_vociferus P7_Chordeiles_minor P8_Chordeiles_acutipennis P9_Chlorostilbon_canivetii Q1_Cynanthus_latirostris Q2_Amazilia_rutilia Q3_Archilochus_colubris Q4_Calypte_anna Q5_Archilochus_alexandri Q6_Lampornis_clemenciae Q7_Eugenes_fulgens Q8_Hylocharis_leucotis Q9_Colibri_thalassinus R1_Selasphorous_rufus_ R2_Selasphorus_platycercus R3_Myiopsitta_monachus R4_Melopsittacus_undulatus R5_Nymphicus_hollandicus R6_Trichoglossus_haematodus R7_Psittacus_erithacus R8_Cacatua_galerita R9_Cacatua_sulfurea S1_Opisthocomos_hoatzin S2_Coccyzus_americanus S3_Geococcyx_californianus S4_Crotophaga_ani S5_Indicator_minor S6_Melanerpes_carolinus S7_Colaptes_auratus S8_Dryocopus_pileatus S9_Sphyrapicus_varius T1_Selenidera_nattereri T2_Aix_sponsa T3_Cairina_moschata_ T4_Clangula_hyemalis T5_Somateria_mollissima T6_Lophodytes_cucullatus T7_Chen_caerulescens_caerulescens T8_Cereopsis_novaehollandiae T9_Aythya_collaris U1_Aythya_affinis U2_Aythya_marila U3_Aythya_americana U4_Aythya_valisineria U5_Plectropterus_gambensis_d1 U6_Plectropterus_gambensis_d2 U7_Branta_canadensis U8_Branta_bernicla U9_Branta_ruficolla V1_Branta_leucopsis V2_Anas_platyrhynchos_d2 V3_Anas_discors V4_Anas_americana V5_Anas_strepera V6_Anas_crecca V7_Anas_rubripes V8_Anas_fulvigula V9_Anas_platyrhynchos_d1 W1_Mergus_serrator W2_Mergus_merganser W3_Bucephala_clangula W4_Bucephala_albeola W5_Anser_anser_d2 W6_Anser_anser_d1 W7_Colinus_virginianus W8_Cyrtonyx_montezumae W9_Gallus_domesticus X1_Phasianus_colchicus X2_Falcipennis_canadensis X3_Canachites_canadensis X4_Centrocercus_urophasianus X5_Callipepla_squamata X6_Oreortyx_picta X7_Perdix_perdix X8_Alectoris_graeca X9_Meleagris_gallopavo Y1_Tympanuchus_cupido Y2_Chrysolophus_pictus Y3_Coturnix_coturnix_japonica Y4_Tetrao_tetrix Y5_Tetrao_urofallus Y6_Dendragapus_obscurus Y7_Dendragapus_fuliginosus Y8_Bonasa_umbellus Y9_Bonasa_bonasia Z1_Lagopus_muta Z2_Lagopus_leucurus Z3_Lagopus_lagopus Z4_Lagopus_lagopus_scoticus Z5_Pedioecetes_phasianellus Z6_Pedioecetes_phasianellus__x_Tympanuchus_cupido Z7_Lophortyx_gambelii Z8_Lophortyx_californica_californica Z9_Lophortyx_californica_brunescens 1A_Dromaius_novaehollandiae 2A_Struthio_camelus 3A_Oryctolagus_cunciculus 4A_Spalax_ehrenbergi 5A_Micromys_minutus 6A_Desmodillus_auricularis 7A_Acomys_spinosissimus 8A_Lemniscomys_griselda 9A_Rhabdomys_pumilio 1!_Thallomys_paedulcus 2!_Rattus_norvegicus 3!_Rattus_rattus 4!_Mus_musculus 5!_Mus_cricetus 6!_Mus_minutoides 7!_Meriones_unguiculatus 8!_Meriones_crassus 9!_Tatera_brantsii 1#_Tatera_laucogaster 2#_Otomys_angoniensis 3#_Otomys_irroratus 4#_Phodopus_sungorus 5#_Cricetomys_gambianus 6#_Ondatra_zibethicus 7#_Microtus_guenteri 8#_Microtus_brandti 9#_Microtus_spp. AQ_Microtus_agrestis AW_Microtus_pennsylvanicus AE_Microtus_townsendii AR_Microtus_ochrogaster AT_Peromyscus_maniculatus AY_Peromyscus_leucopus AU_Mesocricetus_auratus AP_Neotoma_lepida AS_Phyllotis_darwini 1&_Mystromys_albicaudatus 2&_Steatomys_pratensis 3&_Saccostomus_campestris 4&_Aethomys_chrysophilus 5&_Aethomys_namaquensis 6&_Zapus_hudsonius 7&_Dipodomys_sp. 8&_Hydrochaeris_hydrochaeris 9&_Myocastor_coypus 1Q_Octodon_degu 1W_Cryptomys_hottentotus 1E_Dolichotis_patagonum 1R_Cavia_aperea 1T_Cavia_porcellus 1U_Graphiurus_murinus 1P_Eutamias_amoenus QQ_Heliosciurus_rufobrachium 1S_Epixerus_ebii 1D_Marmota_caligata 1F_Sciurus_vulgaris 1G_Spermophilus_beldingi 1H_Spermophilus_columbianus 1J_Callithrix_jacchus 1K_Saguinus_geoffroyi 1Z_Saimiri_sciureus 1X_Chiropotes_chiropotes 1C_Pithecia_pithecia 1V_Alouatta_seniculus 1B_Lagothrix_lagotricha 1N_Cebus_griseus 1M_Aotus_trivirgatus 2Q_Miopithecus_talapoin 2W_Colobus_polykomos 2E_Papio_sphinx 2R_Macaca_fascicularis 2T_Cercocebus_albigena 2Y_Presbytis_cristata 2U_Pygathrix_nemaeus 2P_Nasalis_larvatus 2S_Macaca_mulatta_l 2D_Macaca_mulatta_m 2F_Macaca_mulatta_s 2G_Cercopithecus_aethiops 2H_Cercopithecus_mitis 2J_Cercopithecus_nictitans 2K_Cercopithecus_cephus 2Z_Cercopithecus_neglectus 2X_Presbytis_entellus 2C_Presbytis_obscura 2V_Presbytis_melalophos 2B_Presbytis_rubicunda 2N_Gorilla_gorilla 2M_Pan_troglodytes 3Q_Pongo_pygmaeus 3W_Homo_sapiens_s 3E_Homo_sapiens_l 3R_Hylobates_syndactylus 3T_Hylobates_pileatus 3Y_Hylobates_lar 3P_Lepilemur_leucopus 3S_Cheirogaleus_major 3D_Phaner_furcifer 3F_Arctocebus_calabarensis 3G_Perodicticus_potto 3H_Loris_tardigradus 3J_Euoticus_elegantulus 3K_Galago_demidovii 3Z_Galago_alleni 3X_Tupaia_minor 3C_Tupaia_gracilis 3V_Tupaia_montana 3B_Tupaia_tana 3N_Tursiops_truncatus 3M_Phocaena_phocaena 4Q_Bubalus_bubalis 4W_Ovis_ammon 4E_Ovis_aries_l 4R_Ovis_aries_s 4T_Ovis_aries_m 4Y_Bison_bison 4P_Bos_grunniens 4S_Bos_taurus 4D_Capra_ibex 4F_Capra_hircus 4G_Capra_aegagrus_m 4H_Capra_aegagrus_l 4J_Capra_aegagrus_s 4K_Cervus_elaphus 4L_Capreolus_capreolus 4Z_Alces_alces 4X_Giraffa_camelopardalis 4C_Okapia_johnstoni 4V_Camelus_dromedarius 4B_Llama_guanicoe 4N_Sus_scrofa_m 4M_Sus_scrofa_l 5Q_Sus_scrofa_xs 5W_Sus_scrofa_s 5E_Ceratotherium_simum 5R_Rhinoceros_unicornis 5T_Diceros_bicornis 5Y_Equus_caballus_s 5P_Equus_asinus 5S_Equus_caballus_l 5D_Vulpes_vulpes 5F_Canis_lupus_s 5G_Canis_lupus_l 5H_Mustela_vison 5J_Mustela_erminea 5K_Mustela_nivalis 5Z_Atilax_paludinosus 5X_Nandinia_binotata 5C_Profelis_aurata 5V_Panthera_pardus 5B_Felis_domesticus 5N_Felis_pardus 5M_Felis_leo 6Q_Genetta_servalina 6W_Poiana_richardsoni 6E_Manis_gigantea 6R_Manis_tricuspis 6T_Blarina_brevicauda 6Y_Potamogale_velox 6P_Dendrohyrax_dorsalis 6S_Rhynchocyon_chrysopygus 6D_Elephantulus_rupestris 6F_Elephantulus_myurus 6G_Elephantulus_proboscideus 6H_Elephantulus_tetradactylus 6J_Elephantulus_edwardii 6K_Elephantulus_intufi 6Z_Elephantulus_brachyrhynchus 6X_Planigale_gilesi_tenuirostris 6C_Dasycercus_byrnei 6V_Dasyurus_viverrinus 6B_Sminthopsis_douglasi 6N_Sminthopsis_crassicaudata 6M_Phascolarctos_cinereus 7Q_Vombatus_ursinus 7W_Lasiorhinus_latifrons 7E_Isoodon_macrourus 7R_Macrotis_lagotis 7T_Perameles_nasuta 7Y_Potorus_tridactylus 7P_Aepyprymnus_rufescens 7S_Lagorchestes_hirsutus 7D_Macropus_giganteus 7F_Macropus_robustus 7G_Trichosurus_vulpecula 7H_Pseudocheirus_peregrinus 7J_Petauroides_volans 
+	;
+
+END;
+
+
+BEGIN CHARACTERS;
+	TITLE  Untitled_Character_Matrix;
+	DIMENSIONS NCHAR=2;
+	FORMAT DATATYPE = CONTINUOUS;
+	MATRIX
+	A1_Ceryle_alcyon                                      5.401776075 ?
+	A2_Gallinula_chloropus                                5.417432847 4.158883083
+	A3_Porphyrula_martinica                               5.099256486 3.728100167
+	A4_Rallus_longirostris                                4.865224091 3.597312261
+	A5_Porzana_carolina                                   3.935739532 3.53921868
+	A6_Laterallus_jamaicensis                             2.917770732 2.867898902
+	A7_Fulica_americana                                   6.182084907 4.297285406
+	A8_Ardeotis_kori                                      8.987196821 4.686750173
+	A9_Aramus_guarauna                                    6.382830731 4.17438727
+	10_Arenaria_interpres                                 4.374498368 3.688879454
+	11_Gallinago_gallinago                                4.238444906 3.294613896
+	12_Phalaropus_lobatus                                 3.594568775 2.844909384
+	13_Phalaropus_tricolor                                4.11414719 ?
+	14_Calidris_alba                                      3.941581808 3.202746443
+	15_Calidris_pusilla                                   3.113515309 3.131136911
+	16_Calidris_melanotus                                 3.317815773 3.131136911
+	17_Calidris_canutus                                   4.630837933 3.589887505
+	18_Charadrius_vociferus                               3.242592351 3.020424886
+	19_Pluvialis_squatorola                               5.066385309 4.337290741
+	20_Haematopus_palliatus                               6.133398043 4.452019006
+	21_Recurvirostra_americana                            5.769882276 ?
+	22_Fratercula_cirrhata                                6.817283376 4.366912997
+	23_Rhynchops_niger                                    5.663654684 3.715521385
+	24_Larus_californicus                                 6.152732695 ?
+	25_Larus_atricilla                                    5.589119566 3.918005077
+	26_Larus_argentatus                                   6.669371178 4.477336814
+	27_Larus_delawarensis                                 5.885270351 4.204692619
+	28_Larus_hyperboreus                                  7.031741259 4.757891273
+	29_Sterna_maxima                                      5.562602861 4.123093976
+	30_Sterna_caspia                                      6.047844881 4.361185969
+	31_Sterna_antillarum                                  3.210843653 3.015534901
+	32_Sterna_hirundo                                     4.334672938 3.496507561
+	33_Pandion_haliaetus                                  7.007148023 5.26
+	34_Sagittarius_serpentarius                           8.03915739 4.93878119
+	35_Milvus_milvus                                      6.940706379 4.894101478
+	36_Pernis_apivorus                                    6.152732695 3.761200116
+	37_Accipiter_striatus                                 4.401829262 ?
+	38_Accipiter_cooperii                                 6.020052004 3.688879454
+	39_Accipiter_nisus                                    5.391352233 3.925925911
+	40_Accipiter_gentilis                                 7.01571242 4.350277936
+	41_Buteo_platypterus                                  5.425830687 3.939638172
+	42_Buteo_lineatus                                     6.130574103 ?
+	43_Buteo_jamaicensis                                  6.81563999 ?
+	44_Buteo_buteo                                        6.742880636 4.65396035
+	45_Falco_sparverius                                   4.677490848 3.17805383
+	46_Falco_mexicanus                                    5.823045895 ?
+	47_Falco_tinnunculus                                  5.192956851 3.951243719
+	48_Falco_peregrinus                                   6.636602508 4.24563401
+	49_Falco_subbeteo                                     5.717027701 4.128745989
+	50_Podiceps_nigricollis                               5.850476854 ?
+	51_Tachybaptus_dominicus                              5.309257307 4.325456283
+	52_Podilymbus_podiceps                                5.676411278 4.382026635
+	53_Phalacrocorax_auritus                              6.688728243 4.777441407
+	54_Anhinga_anhinga                                    6.406219702 4.620058798
+	55_Sula_bassanus                                      7.45662785 4.733563401
+	56_Sula_capensis                                      7.783224016 ?
+	57_Ixobrychus_exilis                                  4.119037175 3.985273467
+	58_Botaurus_lentiginosus                              5.513428746 4.664382046
+	59_Butorides_striatus                                 5.186267863 4.394449155
+	60_Ardea_herodia                                      7.556950572 5.159055299
+	61_Nyctorax_nycticorax                                6.188058763 4.766438334
+	62_Nyctanassa_violacea                                6.23636959 4.795790546
+	63_Bulbulcus_ibis                                     5.396804313 3.871201011
+	64_Egretta_thula                                      5.667464212 4.508659286
+	65_Egretta_rufescens                                  6.666956792 5.238567362
+	66_Egretta_caerulea                                   5.535758223 4.49980967
+	67_Phoenicopterus_ruber                               7.538122391 5.47436931
+	68_Phoeniconaias_minor                                7.054449658 5.402677382
+	69_Eudocimus_albus                                    6.41656887 4.55492897
+	70_Ajaja_ajaja                                        7.341483852 5.009301071
+	71_Pelecanus_occidentalis                             7.574404468 5.43284826
+	72_Cathartes_aura                                     7.648263031 ?
+	73_Mycteria_americana                                 7.495541944 5.641907071
+	74_Pygoscelis_papua                                   8.71604405 ?
+	75_Aptenodytes_patagonica                             9.400960732 ?
+	76_Eudyptes_chrysocome_d1                             8.160518247 ?
+	77_Eudyptes_chrysocome_d2                             7.824046011 ?
+	78_Gavia_immer                                        7.494207721 5.007296393
+	79_Calonectris_diomedea                               6.003640123 3.891820298
+	80_Diomedea_immutabilis                               7.807916629 5.148075703
+	81_Oceanites_oceanicus                                4.97535348 3.725693427
+	82_Phoebetria_fusca                                   7.696212639 ?
+	83_Phoebetria_palpebrata                              7.824046011 ?
+	84_Puffinus_lherminieri                               4.672828834 3.597312261
+	85_Puffinus_gravis                                    5.940171253 4.273884476
+	86_Columba_livia                                      5.653190689 4.357990057
+	87_Streptopelia_risoria                               4.782479201 3.850147602
+	88_Columbina_passerina                                3.47506723 ?
+	89_Zenaida_macroura                                   4.6121458 ?
+	90_Zenaida_asiatica                                   4.942356453 ?
+	91_Phainopepla_nitens                                 3.284663565 ?
+	92_Bombycilla_cedrorum                                3.552486829 2.451005098
+	93_Bombycilla_garrulus                                4.128745989 3.328626689
+	94_Ficedula_hypoleuca                                 2.740840024 2.708050201
+	95_Erithacus_rubecula                                 2.788708104 2.694627181
+	96_Phoenicurus_ochruros                               2.772588722 2.727852828
+	97_Phoenicurus_phoenicurus                            2.76000994 2.653241965
+	98_Hylocichla_mustelina                               4.038655656 3.077312261
+	99_Hylocichla_guttata                                 3.433987204 2.862200881
+	B1_Turdus_grayi                                       4.313480092 2.949688335
+	B2_Turdus_rufopalliatus                               4.254193263 ?
+	B3_Turdus_merula                                      4.443827036 3.265759411
+	B4_Turdus_philomelos                                  4.185251121 3.417726684
+	B5_Turdus_migratorius                                 4.361568793 3.280911216
+	B6_Turdus_pilaris                                     4.631812117 3.713572067
+	B7_Catharus_aurantiirostris                           3.226843995 ?
+	B8_Catharus_ustulatus                                 3.676300672 2.833213344
+	B9_Catharus_guttatus                                  3.496507561 ?
+	C1_Catharus_minimus                                   3.772760938 ?
+	C2_Dumetella_carolinensis                             3.465735903 2.785011242
+	C3_Mimus_polyglottos                                  3.94931879 2.969901514
+	C4_Sturnus_vulgaris                                   4.290116917 3.440418095
+	C5_Motacilla_alba                                     3.058707073 2.653241965
+	C6_Prunella_modularis                                 2.990719732 3.091042453
+	C7_Passer_domesticus                                  3.27184771 2.895911938
+	C8_Passer_montanus                                    3.220075105 2.778819272
+	C9_Pipilo_erythrophthalmus                            3.725693427 2.965273066
+	D1_Sporophila_aurita                                  2.341805806 2.379546134
+	D2_Melospiza_melodia                                  3.054001182 2.907993359
+	D3_Fringilla_coelebs                                  3.04927304 3.117949906
+	D4_Pyrrhula_pyrrhula                                  3.275256158 3.78487122
+	D5_Pinicola_enucleator                                3.96271612 4.600157644
+	D6_Loxia_pytyopsittacus                               3.937690752 3.55820113
+	D7_Cacicus_melanicterus                               4.441474093 ?
+	D8_Agelaius_phoeniceus                                4.051784948 ?
+	D9_Molothrus_ater                                     3.708682081 ?
+	E1_Parula_americana                                   1.458615023 ?
+	E2_Mniotilta_varia                                    2.351375257 2.525728644
+	E3_Diglossa_baritula                                  2.091864062 ?
+	E4_Ramphocelus_passerinii                             3.411147713 2.681021529
+	E5_Tangara_icterocephala                              3.091042453 2.498973907
+	E6_Passerina_leclancherii                             2.708050201 ?
+	E7_Thraupis_virens                                    3.526360525 2.397895273
+	E8_Piranga_olivacea                                   3.446807893 2.879198457
+	E9_Saltator_coerulescens                              3.819907717 ?
+	F1_Geothlypis_trichas                                 1.840549633 ?
+	F2_Junco_hyemalis                                     3.353406718 3.117949906
+	F3_Spizella_passerina                                 2.442347035 ?
+	F4_Spizella_pusilla                                   2.617395833 ?
+	F5_Carduelis_carduelis                                2.687847494 2.844909384
+	F6_Carduelis_chloris                                  3.169685581 3.068052935
+	F7_Coccothrauses_coccothraustes                       3.795489189 3.61361697
+	F8_Coccothraustes_vespertinus                         4.382026635 3.850147602
+	F9_Serinus_canarius_d2                                2.708050201 ?
+	G1_Serinus_canarius_d1                                2.708050201 ?
+	G2_Icterus_spurius                                    2.917770732 ?
+	G3_Icterus_pustulatus                                 3.339321978 ?
+	G4_Quiscalus_quiscula                                 4.395682961 3.473052819
+	G5_Quiscalus_major                                    5.182906515 3.828641396
+	G6_Quiscalus_mexicanus                                4.563305982 ?
+	G7_Dendroica_coronata                                 2.479056236 2.509599262
+	G8_Dendroica_pinus                                    2.459588842 2.602689685
+	G9_Vermivora_ruficapilla                              2.079441542 ?
+	H1_Vermivora_celata                                   2.104134154 ?
+	H2_Phylloscopus_collybita                             2.014903021 2.302585093
+	H3_Phylloscopus_trochilus                             2.197224577 2.442347035
+	H4_Sylvia_atricapilla                                 2.90690106 2.674148649
+	H5_Sylvia_communis                                    2.815408719 2.587764035
+	H6_Sylvia_melanocephala                               2.433613355 2.533696814
+	H7_Sylvia_borin                                       2.917770732 2.701361213
+	H8_Regulus_ignicapillus                               1.667706821 1.819698838
+	H9_Regulus_regulus                                    1.619388243 1.808288771
+	J1_Regulus_calendula                                  1.916922612 1.887069649
+	J2_Hirundo_rustica                                    3.263849191 2.48490665
+	J3_Tachycineta_bicolor                                2.734367509 2.63905733
+	J4_Progne_subis                                       3.411147713 ?
+	J5_Stelgidopteryx_ruficollis                          2.587764035 2.370243741
+	J6_Parus_caeruleus                                    2.282382386 2.58021683
+	J7_Parus_major                                        2.78593674 2.646174797
+	J8_Parus_carolinensis                                 2.312535424 2.186051277
+	J9_Parus_bicolor                                      3.058707073 2.867898902
+	K1_Sitta_carolinensis                                 3.039749159 2.780060737
+	K2_Microcerculus_philomela                            2.93385687 2.69597762
+	K3_Troglodytes_aedon_                                 2.341805806 2.208274414
+	K4_Troglodytes_troglodytes                            2.2300144 2.360854001
+	K5_Garrulus_glandarius                                4.93878119 3.80666249
+	K6_Cyanocitta_cristata                                4.110873864 3.502549876
+	K7_Corvus_corax                                       6.773080376 4.621043535
+	K8_Corvus_frugilegus                                  5.884714177 4.077537444
+	K9_Icteria_virens                                     3.086486637 ?
+	L1_Hylophilus_ochraceiceps                            2.48490665 2.272125886
+	L2_Vireo_flavifrons                                   2.995732274 2.617395833
+	L3_Vireo_solitarius                                   2.833213344 2.58021683
+	L4_Lanius_senator                                     3.430756184 3.077312261
+	L5_Lanius_ludovicianus                                3.356897123 3.258096538
+	L6_Myrmotherula_schisticolor                          2.261763098 1.916922612
+	L7_Gymnopithus_bicolor_leucapsis                      3.387774361 2.949688335
+	L8_Formicarius_analis                                 4.123903364 2.944438979
+	L9_Hylopezus_perspicillatus_Grallaria_perspicillata   3.663561646 2.674148649
+	M1_Automolus_ochrolaemus                              4.949468859 2.646174797
+	M2_Glyphorhynchus_spirurus                            2.58021683 2.564949357
+	M3_Dendrocincla_anabatina                             3.749504076 2.766319109
+	M4_Dendrocolaptes_certhia                             4.185098925 2.839078464
+	M5_Schiffornis_turdinus                               3.465735903 2.87356464
+	M6_Phytotoma_rara                                     3.819907717 2.240709689
+	M7_Pipra_mentalis                                     2.63905733 ?
+	M8_Manacus_vitellinus                                 2.890371758 ?
+	M9_Empidonax_difficilis                               2.388762789 ?
+	N1_Pitangus_sulphuratus                               4.294560609 ?
+	N2_Myiozetetes_similis                                3.363841595 ?
+	N3_Elaenia_flavogaster                                3.157000421 2.515274186
+	N4_Platyrinchus_coronatus                             2.995732274 2.174751721
+	N5_Terrenotricus_erythrurus                           2.014903021 1.609437912
+	N6_Mionectes_oleagineus_Pipromorpha_oleaginea         2.379546134 2.708050201
+	N7_Tyrannus_melancholicus                             3.683866912 2.912350665
+	N8_Tyto_alba                                          6.039301877 3.928880122
+	N9_Strix_varia                                        6.478509642 4.234106505
+	P1_Bubo_virginianus                                   6.963379183 4.366912997
+	P2_Athene_cunicularia                                 4.769836808 3.430432507
+	P3_Otus_asio                                          4.421247348 3.135494216
+	P4_Otus_kennicottii                                   4.378269586 3.198673118
+	P5_Caprimulgus_carolinensis                           4.489759334 3.122364924
+	P6_Caprimulgus_vociferus                              3.535145354 2.549445171
+	P7_Chordeiles_minor                                   4.037774211 2.850706502
+	P8_Chordeiles_acutipennis                             3.837299459 2.884800713
+	P9_Chlorostilbon_canivetii                            0.741937345 ?
+	Q1_Cynanthus_latirostris                              0.896088025 ?
+	Q2_Amazilia_rutilia                                   1.504077397 ?
+	Q3_Archilochus_colubris                               1.302912752 1.386294361
+	Q4_Calypte_anna                                       1.098612289 ?
+	Q5_Archilochus_alexandri                              1.16315081 ?
+	Q6_Lampornis_clemenciae                               2.128231706 ?
+	Q7_Eugenes_fulgens                                    1.960094784 ?
+	Q8_Hylocharis_leucotis                                1.280933845 ?
+	Q9_Colibri_thalassinus                                1.568615918 ?
+	R1_Selasphorous_rufus_                                1.178654996 1.435084525
+	R2_Selasphorus_platycercus                            1.193922468 ?
+	R3_Myiopsitta_monachus                                5.931183616 ?
+	R4_Melopsittacus_undulatus                            3.60004824 ?
+	R5_Nymphicus_hollandicus                              4.33073334 ?
+	R6_Trichoglossus_haematodus                           4.804021045 3.871201011
+	R7_Psittacus_erithacus                                6.063319984 ?
+	R8_Cacatua_galerita                                   6.378426184 ?
+	R9_Cacatua_sulfurea                                   5.196838198 ?
+	S1_Opisthocomos_hoatzin                               6.620073207 4.160444364
+	S2_Coccyzus_americanus                                3.828641396 3.258096538
+	S3_Geococcyx_californianus                            5.142248181 3.621670704
+	S4_Crotophaga_ani                                     4.248495242 3.832979798
+	S5_Indicator_minor                                    3.206803244 3.198673118
+	S6_Melanerpes_carolinus                               3.96271612 ?
+	S7_Colaptes_auratus                                   4.368181228 ?
+	S8_Dryocopus_pileatus                                 5.183467525 ?
+	S9_Sphyrapicus_varius                                 5.965890296 ?
+	T1_Selenidera_nattereri                               5.005957705 ?
+	T2_Aix_sponsa                                         6.286556598 4.619073091
+	T3_Cairina_moschata_                                  6.371611847 4.837075243
+	T4_Clangula_hyemalis                                  6.573680167 ?
+	T5_Somateria_mollissima                               7.340186835 ?
+	T6_Lophodytes_cucullatus                              6.34738921 ?
+	T7_Chen_caerulescens_caerulescens                     7.824046011 5.205653682
+	T8_Cereopsis_novaehollandiae                          8.210668031 ?
+	T9_Aythya_collaris                                    6.561553867 4.757891273
+	U1_Aythya_affinis                                     6.576469569 5.133442723
+	U2_Aythya_marila                                      6.793466133 5.042133961
+	U3_Aythya_americana                                   6.91968385 4.976733742
+	U4_Aythya_valisineria                                 7.029680834 4.92289638
+	U5_Plectropterus_gambensis_d1                         7.98616486 ?
+	U6_Plectropterus_gambensis_d2                         7.98616486 ?
+	U7_Branta_canadensis                                  8.269885013 5.347107531
+	U8_Branta_bernicla                                    7.207859871 ?
+	U9_Branta_ruficolla                                   7.021083964 ?
+	V1_Branta_leucopsis                                   7.576865882 5.241217775
+	V2_Anas_platyrhynchos_d2                              7.017730132 4.964242255
+	V3_Anas_discors                                       5.694237062 4.59764192
+	V4_Anas_americana                                     6.272877007 4.911551336
+	V5_Anas_strepera                                      6.818924065 ?
+	V6_Anas_crecca                                        5.916202063 ?
+	V7_Anas_rubripes                                      7.110696123 ?
+	V8_Anas_fulvigula                                     6.609396412 4.905274778
+	V9_Anas_platyrhynchos_d1                              7.047517221 ?
+	W1_Mergus_serrator                                    6.134265346 4.919980926
+	W2_Mergus_merganser                                   7.202661197 ?
+	W3_Bucephala_clangula                                 6.781057626 ?
+	W4_Bucephala_albeola                                  6.208590026 ?
+	W5_Anser_anser_d2                                     8.433811582 ?
+	W6_Anser_anser_d1                                     8.433811582 ?
+	W7_Colinus_virginianus                                5.11619579 3.912023005
+	W8_Cyrtonyx_montezumae                                5.225746674 3.817712326
+	W9_Gallus_domesticus                                  7.816416984 5.225746674
+	X1_Phasianus_colchicus                                7.101016776 4.616110126
+	X2_Falcipennis_canadensis                             6.327936784 4.467056884
+	X3_Canachites_canadensis                              6.356107661 4.65396035
+	X4_Centrocercus_urophasianus                          7.132896833 4.850466542
+	X5_Callipepla_squamata                                5.164785974 4.000033883
+	X6_Oreortyx_picta                                     5.521460918 4.333361463
+	X7_Perdix_perdix                                      5.978885765 4.077537444
+	X8_Alectoris_graeca                                   6.356107661 4.350277936
+	X9_Meleagris_gallopavo                                8.860782896 5.365976015
+	Y1_Tympanuchus_cupido                                 6.97424502 4.743888105
+	Y2_Chrysolophus_pictus                                5.904544075 4.165113633
+	Y3_Coturnix_coturnix_japonica                         5.130490256 3.618993327
+	Y4_Tetrao_tetrix                                      7.06646697 4.959342
+	Y5_Tetrao_urofallus                                   7.874739125 5.153291594
+	Y6_Dendragapus_obscurus                               6.877296071 4.865224091
+	Y7_Dendragapus_fuliginosus                            7.13089883 4.787491743
+	Y8_Bonasa_umbellus                                    6.225745843 4.523016084
+	Y9_Bonasa_bonasia                                     5.966146739 4.615041306
+	Z1_Lagopus_muta                                       6.160770517 4.543294782
+	Z2_Lagopus_leucurus                                   5.906451173 4.430816799
+	Z3_Lagopus_lagopus                                    6.331745059 4.518522379
+	Z4_Lagopus_lagopus_scoticus                           6.509141646 4.573679519
+	Z5_Pedioecetes_phasianellus                           6.745236349 4.787491743
+	Z6_Pedioecetes_phasianellus__x_Tympanuchus_cupido     6.800170068 4.778282804
+	Z7_Lophortyx_gambelii                                 5.236441963 4.387014176
+	Z8_Lophortyx_californica_californica                  5.180378069 4.369447852
+	Z9_Lophortyx_californica_brunescens                   5.257495372 4.436751534
+	1A_Dromaius_novaehollandiae                           10.51366065 5.703782475
+	2A_Struthio_camelus                                   10.73203937 ?
+	3A_Oryctolagus_cunciculus                             7.762170607 5.793013608
+	4A_Spalax_ehrenbergi                                  4.80811103 ?
+	5A_Micromys_minutus                                   2.186051277 ?
+	6A_Desmodillus_auricularis                            4.456670178 3.624474257
+	7A_Acomys_spinosissimus                               2.844909384 3.257773409
+	8A_Lemniscomys_griselda                               4.005513349 3.193791836
+	9A_Rhabdomys_pumilio                                  3.832979798 3.379292546
+	1!_Thallomys_paedulcus                                4.010962953 3.443729912
+	2!_Rattus_norvegicus                                  5.720311777 4.545950826
+	3!_Rattus_rattus                                      4.6558633 4.560584869
+	4!_Mus_musculus                                       3.641971268 3.786119589
+	5!_Mus_cricetus                                       4.605170186 3.671224519
+	6!_Mus_minutoides                                     1.547562509 2.859236491
+	7!_Meriones_unguiculatus                              4.249209273 3.373723405
+	8!_Meriones_crassus                                   4.411585437 ?
+	9!_Tatera_brantsii                                    4.990432587 3.902150432
+	1#_Tatera_laucogaster                                 4.59511985 3.854415079
+	2#_Otomys_angoniensis                                 4.646312129 3.311491469
+	3#_Otomys_irroratus                                   4.532599493 3.558497383
+	4#_Phodopus_sungorus                                  3.586292865 ?
+	5#_Cricetomys_gambianus                               7.269686385 4.615120517
+	6#_Ondatra_zibethicus                                 6.737322767 ?
+	7#_Microtus_guenteri                                  3.658420247 ?
+	8#_Microtus_brandti                                   3.828641396 3.214867803
+	9#_Microtus_spp.                                      3.514526067 ?
+	AQ_Microtus_agrestis                                  3.514526067 ?
+	AW_Microtus_pennsylvanicus                            3.688879454 ?
+	AE_Microtus_townsendii                                4.094344562 ?
+	AR_Microtus_ochrogaster                               3.433987204 3.242592351
+	AT_Peromyscus_maniculatus                             2.995732274 ?
+	AY_Peromyscus_leucopus                                3.218875825 ?
+	AU_Mesocricetus_auratus                               4.808927024 3.693866996
+	AP_Neotoma_lepida                                     4.795790546 3.845883203
+	AS_Phyllotis_darwini                                  4.382026635 ?
+	1&_Mystromys_albicaudatus                             5.148075703 3.848878712
+	2&_Steatomys_pratensis                                3.449987546 3.246129059
+	3&_Saccostomus_campestris                             4.417635062 3.661847357
+	4&_Aethomys_chrysophilus                              4.48863637 3.663407788
+	5&_Aethomys_namaquensis                               3.845883203 3.599479773
+	6&_Zapus_hudsonius                                    2.995732274 ?
+	7&_Dipodomys_sp.                                      3.555348061 3.47506723
+	8&_Hydrochaeris_hydrochaeris                          10.82516376 6.396929655
+	9&_Myocastor_coypus                                   8.586411371 ?
+	1Q_Octodon_degu                                       5.192956851 ?
+	1W_Cryptomys_hottentotus                              4.38949865 3.727381159
+	1E_Dolichotis_patagonum                               8.909235279 ?
+	1R_Cavia_aperea                                       6.886940139 ?
+	1T_Cavia_porcellus                                    6.396929655 ?
+	1U_Graphiurus_murinus                                 3.039749159 2.833977758
+	1P_Eutamias_amoenus                                   4.094344562 ?
+	QQ_Heliosciurus_rufobrachium                          5.669880923 ?
+	1S_Epixerus_ebii                                      6.327936784 ?
+	1D_Marmota_caligata                                   7.745002804 ?
+	1F_Sciurus_vulgaris                                   6.396929655 5.153291594
+	1G_Spermophilus_beldingi                              5.762051383 4.372607413
+	1H_Spermophilus_columbianus                           6.492239835 ?
+	1J_Callithrix_jacchus                                 5.622210821 3.887730313
+	1K_Saguinus_geoffroyi                                 6.040254711 ?
+	1Z_Saimiri_sciureus                                   6.515329784 4.737951297
+	1X_Chiropotes_chiropotes                              8.048788284 5.556828062
+	1C_Pithecia_pithecia                                  7.459722846 5.252273428
+	1V_Alouatta_seniculus                                 8.850804196 5.44932024
+	1B_Lagothrix_lagotricha                               9.252441548 ?
+	1N_Cebus_griseus                                      7.29301768 ?
+	1M_Aotus_trivirgatus                                  6.877296071 ?
+	2Q_Miopithecus_talapoin                               6.818924065 ?
+	2W_Colobus_polykomos                                  8.779557456 ?
+	2E_Papio_sphinx                                       9.578449694 ?
+	2R_Macaca_fascicularis                                8.076101942 ?
+	2T_Cercocebus_albigena                                8.216088099 ?
+	2Y_Presbytis_cristata                                 8.723394022 ?
+	2U_Pygathrix_nemaeus                                  8.315077007 ?
+	2P_Nasalis_larvatus                                   9.672815735 ?
+	2S_Macaca_mulatta_l                                   9.5385644 ?
+	2D_Macaca_mulatta_m                                   8.843134457 ?
+	2F_Macaca_mulatta_s                                   8.138856751 ?
+	2G_Cercopithecus_aethiops                             8.455317788 ?
+	2H_Cercopithecus_mitis                                8.799360083 ?
+	2J_Cercopithecus_nictitans                            8.779557456 ?
+	2K_Cercopithecus_cephus                               8.112977303 ?
+	2Z_Cercopithecus_neglectus                            9.336091577 ?
+	2X_Presbytis_entellus                                 9.210340372 ?
+	2C_Presbytis_obscura                                  8.76950712 ?
+	2V_Presbytis_melalophos                               8.78518314 ?
+	2B_Presbytis_rubicunda                                8.756210092 ?
+	2N_Gorilla_gorilla                                    10.83958091 6.461468176
+	2M_Pan_troglodytes                                    10.4341158 5.826000107
+	3Q_Pongo_pygmaeus                                     9.061840364 ?
+	3W_Homo_sapiens_s                                     11.15625052 6.349138991
+	3E_Homo_sapiens_l                                     11.36905509 ?
+	3R_Hylobates_syndactylus                              9.336091577 ?
+	3T_Hylobates_pileatus                                 8.890135108 ?
+	3Y_Hylobates_lar                                      8.556413905 ?
+	3P_Lepilemur_leucopus                                 6.445719819 ?
+	3S_Cheirogaleus_major                                 5.438079309 ?
+	3D_Phaner_furcifer                                    5.598421959 ?
+	3F_Arctocebus_calabarensis                            5.174264718 ?
+	3G_Perodicticus_potto                                 7.056175284 ?
+	3H_Loris_tardigradus                                  5.438079309 ?
+	3J_Euoticus_elegantulus                               5.669880923 ?
+	3K_Galago_demidovii                                   4.094344562 ?
+	3Z_Galago_alleni                                      5.541263545 ?
+	3X_Tupaia_minor                                       4.060443011 3.660994251
+	3C_Tupaia_gracilis                                    4.219507705 3.186352633
+	3V_Tupaia_montana                                     4.96284463 4.369447852
+	3B_Tupaia_tana                                        5.33753808 4.450852826
+	3N_Tursiops_truncatus                                 13.01700286 ?
+	3M_Phocaena_phocaena                                  10.27608506 ?
+	4Q_Bubalus_bubalis                                    12.9408415 ?
+	4W_Ovis_ammon                                         10.6517146 ?
+	4E_Ovis_aries_l                                       10.90778916 ?
+	4R_Ovis_aries_s                                       10.37349118 ?
+	4T_Ovis_aries_m                                       10.80972795 ?
+	4Y_Bison_bison                                        12.53896706 ?
+	4P_Bos_grunniens                                      12.07823927 ?
+	4S_Bos_taurus                                         13.08232811 ?
+	4D_Capra_ibex                                         11.00209984 ?
+	4F_Capra_hircus                                       10.43705266 ?
+	4G_Capra_aegagrus_m                                   10.858999 ?
+	4H_Capra_aegagrus_l                                   11.40294317 ?
+	4J_Capra_aegagrus_s                                   10.03779989 ?
+	4K_Cervus_elaphus                                     11.42627766 6.63
+	4L_Capreolus_capreolus                                9.952277717 ?
+	4Z_Alces_alces                                        12.76568843 ?
+	4X_Giraffa_camelopardalis                             13.31298374 ?
+	4C_Okapia_johnstoni                                   12.33123579 ?
+	4V_Camelus_dromedarius                                12.32385568 ?
+	4B_Llama_guanicoe                                     11.81303006 ?
+	4N_Sus_scrofa_m                                       11.62491397 ?
+	4M_Sus_scrofa_l                                       12.07823927 ?
+	5Q_Sus_scrofa_xs                                      8.946808326 ?
+	5W_Sus_scrofa_s                                       10.96865801 ?
+	5E_Ceratotherium_simum                                14.03865411 ?
+	5R_Rhinoceros_unicornis                               14.56928236 ?
+	5T_Diceros_bicornis                                   13.99226107 ?
+	5Y_Equus_caballus_s                                   12.23651455 6.615194659
+	5P_Equus_asinus                                       12.14950229 ?
+	5S_Equus_caballus_l                                   13.16158409 ?
+	5D_Vulpes_vulpes                                      8.751474487 5.323009979
+	5F_Canis_lupus_s                                      8.905851181 5.363636833
+	5G_Canis_lupus_l                                      9.408371222 5.752572639
+	5H_Mustela_vison                                      6.56526497 4.972933427
+	5J_Mustela_erminea                                    3.401197382 ?
+	5K_Mustela_nivalis                                    4.923623917 4.382026635
+	5Z_Atilax_paludinosus                                 7.774855767 ?
+	5X_Nandinia_binotata                                  7.767828331 ?
+	5C_Profelis_aurata                                    8.562166557 ?
+	5V_Panthera_pardus                                    9.661415991 ?
+	5B_Felis_domesticus                                   7.843430512 4.898212865
+	5N_Felis_pardus                                       10.71936109 5.65248918
+	5M_Felis_leo                                          11.69825084 6.517671273
+	6Q_Genetta_servalina                                  7.299797367 ?
+	6W_Poiana_richardsoni                                 6.234410726 ?
+	6E_Manis_gigantea                                     7.575584652 ?
+	6R_Manis_tricuspis                                    7.34601021 ?
+	6T_Blarina_brevicauda                                 2.890371758 ?
+	6Y_Potamogale_velox                                   6.606650186 ?
+	6P_Dendrohyrax_dorsalis                               7.593777135 ?
+	6S_Rhynchocyon_chrysopygus                            3.912023005 ?
+	6D_Elephantulus_rupestris                             4.17438727 3.761200116
+	6F_Elephantulus_myurus                                4.094344562 3.585184218
+	6G_Elephantulus_proboscideus                          3.63758616 3.505557397
+	6H_Elephantulus_tetradactylus                         5.278114659 4.779123493
+	6J_Elephantulus_edwardii                              3.912023005 3.581015808
+	6K_Elephantulus_intufi                                3.891820298 3.758871826
+	6Z_Elephantulus_brachyrhynchus                        3.784189634 3.688879454
+	6X_Planigale_gilesi_tenuirostris                      2.251291799 ?
+	6C_Dasycercus_byrnei                                  4.941642423 ?
+	6V_Dasyurus_viverrinus                                7.003065459 ?
+	6B_Sminthopsis_douglasi                               4.007333185 ?
+	6N_Sminthopsis_crassicaudata                          2.890371758 ?
+	6M_Phascolarctos_cinereus                             8.644706512 ?
+	7Q_Vombatus_ursinus                                   10.23995979 ?
+	7W_Lasiorhinus_latifrons                              10.1266311 ?
+	7E_Isoodon_macrourus                                  7.218909708 4.639571613
+	7R_Macrotis_lagotis                                   6.23636959 4.406719247
+	7T_Perameles_nasuta                                   6.684611728 ?
+	7Y_Potorus_tridactylus                                6.877296071 ?
+	7P_Aepyprymnus_rufescens                              7.992944547 ?
+	7S_Lagorchestes_hirsutus                              7.081708586 ?
+	7D_Macropus_giganteus                                 9.942708266 ?
+	7F_Macropus_robustus                                  9.966462352 ?
+	7G_Trichosurus_vulpecula                              7.824046011 ?
+	7H_Pseudocheirus_peregrinus                           6.476972363 4.783651043
+	7J_Petauroides_volans                                 7.003065459 ?
+
+;
+
+END;
+BEGIN TREES;
+	Title 'Trees from "Lavin_Tree_493_1_fix_6.txt"';
+	LINK Taxa = Untitled_Block_of_Taxa;
+	TRANSLATE
+		1 A1_Ceryle_alcyon,
+		2 A2_Gallinula_chloropus,
+		3 A3_Porphyrula_martinica,
+		4 A4_Rallus_longirostris,
+		5 A5_Porzana_carolina,
+		6 A6_Laterallus_jamaicensis,
+		7 A7_Fulica_americana,
+		8 A8_Ardeotis_kori,
+		9 A9_Aramus_guarauna,
+		10 10_Arenaria_interpres,
+		11 11_Gallinago_gallinago,
+		12 12_Phalaropus_lobatus,
+		13 13_Phalaropus_tricolor,
+		14 14_Calidris_alba,
+		15 15_Calidris_pusilla,
+		16 16_Calidris_melanotus,
+		17 17_Calidris_canutus,
+		18 18_Charadrius_vociferus,
+		19 19_Pluvialis_squatorola,
+		20 20_Haematopus_palliatus,
+		21 21_Recurvirostra_americana,
+		22 22_Fratercula_cirrhata,
+		23 23_Rhynchops_niger,
+		24 24_Larus_californicus,
+		25 25_Larus_atricilla,
+		26 26_Larus_argentatus,
+		27 27_Larus_delawarensis,
+		28 28_Larus_hyperboreus,
+		29 29_Sterna_maxima,
+		30 30_Sterna_caspia,
+		31 31_Sterna_antillarum,
+		32 32_Sterna_hirundo,
+		33 33_Pandion_haliaetus,
+		34 34_Sagittarius_serpentarius,
+		35 35_Milvus_milvus,
+		36 36_Pernis_apivorus,
+		37 37_Accipiter_striatus,
+		38 38_Accipiter_cooperii,
+		39 39_Accipiter_nisus,
+		40 40_Accipiter_gentilis,
+		41 41_Buteo_platypterus,
+		42 42_Buteo_lineatus,
+		43 43_Buteo_jamaicensis,
+		44 44_Buteo_buteo,
+		45 45_Falco_sparverius,
+		46 46_Falco_mexicanus,
+		47 47_Falco_tinnunculus,
+		48 48_Falco_peregrinus,
+		49 49_Falco_subbeteo,
+		50 50_Podiceps_nigricollis,
+		51 51_Tachybaptus_dominicus,
+		52 52_Podilymbus_podiceps,
+		53 53_Phalacrocorax_auritus,
+		54 54_Anhinga_anhinga,
+		55 55_Sula_bassanus,
+		56 56_Sula_capensis,
+		57 57_Ixobrychus_exilis,
+		58 58_Botaurus_lentiginosus,
+		59 59_Butorides_striatus,
+		60 60_Ardea_herodia,
+		61 61_Nyctorax_nycticorax,
+		62 62_Nyctanassa_violacea,
+		63 63_Bulbulcus_ibis,
+		64 64_Egretta_thula,
+		65 65_Egretta_rufescens,
+		66 66_Egretta_caerulea,
+		67 67_Phoenicopterus_ruber,
+		68 68_Phoeniconaias_minor,
+		69 69_Eudocimus_albus,
+		70 70_Ajaja_ajaja,
+		71 71_Pelecanus_occidentalis,
+		72 72_Cathartes_aura,
+		73 73_Mycteria_americana,
+		74 74_Pygoscelis_papua,
+		75 75_Aptenodytes_patagonica,
+		76 76_Eudyptes_chrysocome_d1,
+		77 77_Eudyptes_chrysocome_d2,
+		78 78_Gavia_immer,
+		79 79_Calonectris_diomedea,
+		80 80_Diomedea_immutabilis,
+		81 81_Oceanites_oceanicus,
+		82 82_Phoebetria_fusca,
+		83 83_Phoebetria_palpebrata,
+		84 84_Puffinus_lherminieri,
+		85 85_Puffinus_gravis,
+		86 86_Columba_livia,
+		87 87_Streptopelia_risoria,
+		88 88_Columbina_passerina,
+		89 89_Zenaida_macroura,
+		90 90_Zenaida_asiatica,
+		91 91_Phainopepla_nitens,
+		92 92_Bombycilla_cedrorum,
+		93 93_Bombycilla_garrulus,
+		94 94_Ficedula_hypoleuca,
+		95 95_Erithacus_rubecula,
+		96 96_Phoenicurus_ochruros,
+		97 97_Phoenicurus_phoenicurus,
+		98 98_Hylocichla_mustelina,
+		99 99_Hylocichla_guttata,
+		100 B1_Turdus_grayi,
+		101 B2_Turdus_rufopalliatus,
+		102 B3_Turdus_merula,
+		103 B4_Turdus_philomelos,
+		104 B5_Turdus_migratorius,
+		105 B6_Turdus_pilaris,
+		106 B7_Catharus_aurantiirostris,
+		107 B8_Catharus_ustulatus,
+		108 B9_Catharus_guttatus,
+		109 C1_Catharus_minimus,
+		110 C2_Dumetella_carolinensis,
+		111 C3_Mimus_polyglottos,
+		112 C4_Sturnus_vulgaris,
+		113 C5_Motacilla_alba,
+		114 C6_Prunella_modularis,
+		115 C7_Passer_domesticus,
+		116 C8_Passer_montanus,
+		117 C9_Pipilo_erythrophthalmus,
+		118 D1_Sporophila_aurita,
+		119 D2_Melospiza_melodia,
+		120 D3_Fringilla_coelebs,
+		121 D4_Pyrrhula_pyrrhula,
+		122 D5_Pinicola_enucleator,
+		123 D6_Loxia_pytyopsittacus,
+		124 D7_Cacicus_melanicterus,
+		125 D8_Agelaius_phoeniceus,
+		126 D9_Molothrus_ater,
+		127 E1_Parula_americana,
+		128 E2_Mniotilta_varia,
+		129 E3_Diglossa_baritula,
+		130 E4_Ramphocelus_passerinii,
+		131 E5_Tangara_icterocephala,
+		132 E6_Passerina_leclancherii,
+		133 E7_Thraupis_virens,
+		134 E8_Piranga_olivacea,
+		135 E9_Saltator_coerulescens,
+		136 F1_Geothlypis_trichas,
+		137 F2_Junco_hyemalis,
+		138 F3_Spizella_passerina,
+		139 F4_Spizella_pusilla,
+		140 F5_Carduelis_carduelis,
+		141 F6_Carduelis_chloris,
+		142 F7_Coccothrauses_coccothraustes,
+		143 F8_Coccothraustes_vespertinus,
+		144 F9_Serinus_canarius_d2,
+		145 G1_Serinus_canarius_d1,
+		146 G2_Icterus_spurius,
+		147 G3_Icterus_pustulatus,
+		148 G4_Quiscalus_quiscula,
+		149 G5_Quiscalus_major,
+		150 G6_Quiscalus_mexicanus,
+		151 G7_Dendroica_coronata,
+		152 G8_Dendroica_pinus,
+		153 G9_Vermivora_ruficapilla,
+		154 H1_Vermivora_celata,
+		155 H2_Phylloscopus_collybita,
+		156 H3_Phylloscopus_trochilus,
+		157 H4_Sylvia_atricapilla,
+		158 H5_Sylvia_communis,
+		159 H6_Sylvia_melanocephala,
+		160 H7_Sylvia_borin,
+		161 H8_Regulus_ignicapillus,
+		162 H9_Regulus_regulus,
+		163 J1_Regulus_calendula,
+		164 J2_Hirundo_rustica,
+		165 J3_Tachycineta_bicolor,
+		166 J4_Progne_subis,
+		167 J5_Stelgidopteryx_ruficollis,
+		168 J6_Parus_caeruleus,
+		169 J7_Parus_major,
+		170 J8_Parus_carolinensis,
+		171 J9_Parus_bicolor,
+		172 K1_Sitta_carolinensis,
+		173 K2_Microcerculus_philomela,
+		174 K3_Troglodytes_aedon_,
+		175 K4_Troglodytes_troglodytes,
+		176 K5_Garrulus_glandarius,
+		177 K6_Cyanocitta_cristata,
+		178 K7_Corvus_corax,
+		179 K8_Corvus_frugilegus,
+		180 K9_Icteria_virens,
+		181 L1_Hylophilus_ochraceiceps,
+		182 L2_Vireo_flavifrons,
+		183 L3_Vireo_solitarius,
+		184 L4_Lanius_senator,
+		185 L5_Lanius_ludovicianus,
+		186 L6_Myrmotherula_schisticolor,
+		187 L7_Gymnopithus_bicolor_leucapsis,
+		188 L8_Formicarius_analis,
+		189 L9_Hylopezus_perspicillatus_Grallaria_perspicillata,
+		190 M1_Automolus_ochrolaemus,
+		191 M2_Glyphorhynchus_spirurus,
+		192 M3_Dendrocincla_anabatina,
+		193 M4_Dendrocolaptes_certhia,
+		194 M5_Schiffornis_turdinus,
+		195 M6_Phytotoma_rara,
+		196 M7_Pipra_mentalis,
+		197 M8_Manacus_vitellinus,
+		198 M9_Empidonax_difficilis,
+		199 N1_Pitangus_sulphuratus,
+		200 N2_Myiozetetes_similis,
+		201 N3_Elaenia_flavogaster,
+		202 N4_Platyrinchus_coronatus,
+		203 N5_Terrenotricus_erythrurus,
+		204 N6_Mionectes_oleagineus_Pipromorpha_oleaginea,
+		205 N7_Tyrannus_melancholicus,
+		206 N8_Tyto_alba,
+		207 N9_Strix_varia,
+		208 P1_Bubo_virginianus,
+		209 P2_Athene_cunicularia,
+		210 P3_Otus_asio,
+		211 P4_Otus_kennicottii,
+		212 P5_Caprimulgus_carolinensis,
+		213 P6_Caprimulgus_vociferus,
+		214 P7_Chordeiles_minor,
+		215 P8_Chordeiles_acutipennis,
+		216 P9_Chlorostilbon_canivetii,
+		217 Q1_Cynanthus_latirostris,
+		218 Q2_Amazilia_rutilia,
+		219 Q3_Archilochus_colubris,
+		220 Q4_Calypte_anna,
+		221 Q5_Archilochus_alexandri,
+		222 Q6_Lampornis_clemenciae,
+		223 Q7_Eugenes_fulgens,
+		224 Q8_Hylocharis_leucotis,
+		225 Q9_Colibri_thalassinus,
+		226 R1_Selasphorous_rufus_,
+		227 R2_Selasphorus_platycercus,
+		228 R3_Myiopsitta_monachus,
+		229 R4_Melopsittacus_undulatus,
+		230 R5_Nymphicus_hollandicus,
+		231 R6_Trichoglossus_haematodus,
+		232 R7_Psittacus_erithacus,
+		233 R8_Cacatua_galerita,
+		234 R9_Cacatua_sulfurea,
+		235 S1_Opisthocomos_hoatzin,
+		236 S2_Coccyzus_americanus,
+		237 S3_Geococcyx_californianus,
+		238 S4_Crotophaga_ani,
+		239 S5_Indicator_minor,
+		240 S6_Melanerpes_carolinus,
+		241 S7_Colaptes_auratus,
+		242 S8_Dryocopus_pileatus,
+		243 S9_Sphyrapicus_varius,
+		244 T1_Selenidera_nattereri,
+		245 T2_Aix_sponsa,
+		246 T3_Cairina_moschata_,
+		247 T4_Clangula_hyemalis,
+		248 T5_Somateria_mollissima,
+		249 T6_Lophodytes_cucullatus,
+		250 T7_Chen_caerulescens_caerulescens,
+		251 T8_Cereopsis_novaehollandiae,
+		252 T9_Aythya_collaris,
+		253 U1_Aythya_affinis,
+		254 U2_Aythya_marila,
+		255 U3_Aythya_americana,
+		256 U4_Aythya_valisineria,
+		257 U5_Plectropterus_gambensis_d1,
+		258 U6_Plectropterus_gambensis_d2,
+		259 U7_Branta_canadensis,
+		260 U8_Branta_bernicla,
+		261 U9_Branta_ruficolla,
+		262 V1_Branta_leucopsis,
+		263 V2_Anas_platyrhynchos_d2,
+		264 V3_Anas_discors,
+		265 V4_Anas_americana,
+		266 V5_Anas_strepera,
+		267 V6_Anas_crecca,
+		268 V7_Anas_rubripes,
+		269 V8_Anas_fulvigula,
+		270 V9_Anas_platyrhynchos_d1,
+		271 W1_Mergus_serrator,
+		272 W2_Mergus_merganser,
+		273 W3_Bucephala_clangula,
+		274 W4_Bucephala_albeola,
+		275 W5_Anser_anser_d2,
+		276 W6_Anser_anser_d1,
+		277 W7_Colinus_virginianus,
+		278 W8_Cyrtonyx_montezumae,
+		279 W9_Gallus_domesticus,
+		280 X1_Phasianus_colchicus,
+		281 X2_Falcipennis_canadensis,
+		282 X3_Canachites_canadensis,
+		283 X4_Centrocercus_urophasianus,
+		284 X5_Callipepla_squamata,
+		285 X6_Oreortyx_picta,
+		286 X7_Perdix_perdix,
+		287 X8_Alectoris_graeca,
+		288 X9_Meleagris_gallopavo,
+		289 Y1_Tympanuchus_cupido,
+		290 Y2_Chrysolophus_pictus,
+		291 Y3_Coturnix_coturnix_japonica,
+		292 Y4_Tetrao_tetrix,
+		293 Y5_Tetrao_urofallus,
+		294 Y6_Dendragapus_obscurus,
+		295 Y7_Dendragapus_fuliginosus,
+		296 Y8_Bonasa_umbellus,
+		297 Y9_Bonasa_bonasia,
+		298 Z1_Lagopus_muta,
+		299 Z2_Lagopus_leucurus,
+		300 Z3_Lagopus_lagopus,
+		301 Z4_Lagopus_lagopus_scoticus,
+		302 Z5_Pedioecetes_phasianellus,
+		303 Z6_Pedioecetes_phasianellus__x_Tympanuchus_cupido,
+		304 Z7_Lophortyx_gambelii,
+		305 Z8_Lophortyx_californica_californica,
+		306 Z9_Lophortyx_californica_brunescens,
+		307 1A_Dromaius_novaehollandiae,
+		308 2A_Struthio_camelus,
+		309 3A_Oryctolagus_cunciculus,
+		310 4A_Spalax_ehrenbergi,
+		311 5A_Micromys_minutus,
+		312 6A_Desmodillus_auricularis,
+		313 7A_Acomys_spinosissimus,
+		314 8A_Lemniscomys_griselda,
+		315 9A_Rhabdomys_pumilio,
+		316 1!_Thallomys_paedulcus,
+		317 2!_Rattus_norvegicus,
+		318 3!_Rattus_rattus,
+		319 4!_Mus_musculus,
+		320 5!_Mus_cricetus,
+		321 6!_Mus_minutoides,
+		322 7!_Meriones_unguiculatus,
+		323 8!_Meriones_crassus,
+		324 9!_Tatera_brantsii,
+		325 1#_Tatera_laucogaster,
+		326 2#_Otomys_angoniensis,
+		327 3#_Otomys_irroratus,
+		328 4#_Phodopus_sungorus,
+		329 5#_Cricetomys_gambianus,
+		330 6#_Ondatra_zibethicus,
+		331 7#_Microtus_guenteri,
+		332 8#_Microtus_brandti,
+		333 9#_Microtus_spp.,
+		334 AQ_Microtus_agrestis,
+		335 AW_Microtus_pennsylvanicus,
+		336 AE_Microtus_townsendii,
+		337 AR_Microtus_ochrogaster,
+		338 AT_Peromyscus_maniculatus,
+		339 AY_Peromyscus_leucopus,
+		340 AU_Mesocricetus_auratus,
+		341 AP_Neotoma_lepida,
+		342 AS_Phyllotis_darwini,
+		343 1&_Mystromys_albicaudatus,
+		344 2&_Steatomys_pratensis,
+		345 3&_Saccostomus_campestris,
+		346 4&_Aethomys_chrysophilus,
+		347 5&_Aethomys_namaquensis,
+		348 6&_Zapus_hudsonius,
+		349 7&_Dipodomys_sp.,
+		350 8&_Hydrochaeris_hydrochaeris,
+		351 9&_Myocastor_coypus,
+		352 1Q_Octodon_degu,
+		353 1W_Cryptomys_hottentotus,
+		354 1E_Dolichotis_patagonum,
+		355 1R_Cavia_aperea,
+		356 1T_Cavia_porcellus,
+		357 1U_Graphiurus_murinus,
+		358 1P_Eutamias_amoenus,
+		359 QQ_Heliosciurus_rufobrachium,
+		360 1S_Epixerus_ebii,
+		361 1D_Marmota_caligata,
+		362 1F_Sciurus_vulgaris,
+		363 1G_Spermophilus_beldingi,
+		364 1H_Spermophilus_columbianus,
+		365 1J_Callithrix_jacchus,
+		366 1K_Saguinus_geoffroyi,
+		367 1Z_Saimiri_sciureus,
+		368 1X_Chiropotes_chiropotes,
+		369 1C_Pithecia_pithecia,
+		370 1V_Alouatta_seniculus,
+		371 1B_Lagothrix_lagotricha,
+		372 1N_Cebus_griseus,
+		373 1M_Aotus_trivirgatus,
+		374 2Q_Miopithecus_talapoin,
+		375 2W_Colobus_polykomos,
+		376 2E_Papio_sphinx,
+		377 2R_Macaca_fascicularis,
+		378 2T_Cercocebus_albigena,
+		379 2Y_Presbytis_cristata,
+		380 2U_Pygathrix_nemaeus,
+		381 2P_Nasalis_larvatus,
+		382 2S_Macaca_mulatta_l,
+		383 2D_Macaca_mulatta_m,
+		384 2F_Macaca_mulatta_s,
+		385 2G_Cercopithecus_aethiops,
+		386 2H_Cercopithecus_mitis,
+		387 2J_Cercopithecus_nictitans,
+		388 2K_Cercopithecus_cephus,
+		389 2Z_Cercopithecus_neglectus,
+		390 2X_Presbytis_entellus,
+		391 2C_Presbytis_obscura,
+		392 2V_Presbytis_melalophos,
+		393 2B_Presbytis_rubicunda,
+		394 2N_Gorilla_gorilla,
+		395 2M_Pan_troglodytes,
+		396 3Q_Pongo_pygmaeus,
+		397 3W_Homo_sapiens_s,
+		398 3E_Homo_sapiens_l,
+		399 3R_Hylobates_syndactylus,
+		400 3T_Hylobates_pileatus,
+		401 3Y_Hylobates_lar,
+		402 3P_Lepilemur_leucopus,
+		403 3S_Cheirogaleus_major,
+		404 3D_Phaner_furcifer,
+		405 3F_Arctocebus_calabarensis,
+		406 3G_Perodicticus_potto,
+		407 3H_Loris_tardigradus,
+		408 3J_Euoticus_elegantulus,
+		409 3K_Galago_demidovii,
+		410 3Z_Galago_alleni,
+		411 3X_Tupaia_minor,
+		412 3C_Tupaia_gracilis,
+		413 3V_Tupaia_montana,
+		414 3B_Tupaia_tana,
+		415 3N_Tursiops_truncatus,
+		416 3M_Phocaena_phocaena,
+		417 4Q_Bubalus_bubalis,
+		418 4W_Ovis_ammon,
+		419 4E_Ovis_aries_l,
+		420 4R_Ovis_aries_s,
+		421 4T_Ovis_aries_m,
+		422 4Y_Bison_bison,
+		423 4P_Bos_grunniens,
+		424 4S_Bos_taurus,
+		425 4D_Capra_ibex,
+		426 4F_Capra_hircus,
+		427 4G_Capra_aegagrus_m,
+		428 4H_Capra_aegagrus_l,
+		429 4J_Capra_aegagrus_s,
+		430 4K_Cervus_elaphus,
+		431 4L_Capreolus_capreolus,
+		432 4Z_Alces_alces,
+		433 4X_Giraffa_camelopardalis,
+		434 4C_Okapia_johnstoni,
+		435 4V_Camelus_dromedarius,
+		436 4B_Llama_guanicoe,
+		437 4N_Sus_scrofa_m,
+		438 4M_Sus_scrofa_l,
+		439 5Q_Sus_scrofa_xs,
+		440 5W_Sus_scrofa_s,
+		441 5E_Ceratotherium_simum,
+		442 5R_Rhinoceros_unicornis,
+		443 5T_Diceros_bicornis,
+		444 5Y_Equus_caballus_s,
+		445 5P_Equus_asinus,
+		446 5S_Equus_caballus_l,
+		447 5D_Vulpes_vulpes,
+		448 5F_Canis_lupus_s,
+		449 5G_Canis_lupus_l,
+		450 5H_Mustela_vison,
+		451 5J_Mustela_erminea,
+		452 5K_Mustela_nivalis,
+		453 5Z_Atilax_paludinosus,
+		454 5X_Nandinia_binotata,
+		455 5C_Profelis_aurata,
+		456 5V_Panthera_pardus,
+		457 5B_Felis_domesticus,
+		458 5N_Felis_pardus,
+		459 5M_Felis_leo,
+		460 6Q_Genetta_servalina,
+		461 6W_Poiana_richardsoni,
+		462 6E_Manis_gigantea,
+		463 6R_Manis_tricuspis,
+		464 6T_Blarina_brevicauda,
+		465 6Y_Potamogale_velox,
+		466 6P_Dendrohyrax_dorsalis,
+		467 6S_Rhynchocyon_chrysopygus,
+		468 6D_Elephantulus_rupestris,
+		469 6F_Elephantulus_myurus,
+		470 6G_Elephantulus_proboscideus,
+		471 6H_Elephantulus_tetradactylus,
+		472 6J_Elephantulus_edwardii,
+		473 6K_Elephantulus_intufi,
+		474 6Z_Elephantulus_brachyrhynchus,
+		475 6X_Planigale_gilesi_tenuirostris,
+		476 6C_Dasycercus_byrnei,
+		477 6V_Dasyurus_viverrinus,
+		478 6B_Sminthopsis_douglasi,
+		479 6N_Sminthopsis_crassicaudata,
+		480 6M_Phascolarctos_cinereus,
+		481 7Q_Vombatus_ursinus,
+		482 7W_Lasiorhinus_latifrons,
+		483 7E_Isoodon_macrourus,
+		484 7R_Macrotis_lagotis,
+		485 7T_Perameles_nasuta,
+		486 7Y_Potorus_tridactylus,
+		487 7P_Aepyprymnus_rufescens,
+		488 7S_Lagorchestes_hirsutus,
+		489 7D_Macropus_giganteus,
+		490 7F_Macropus_robustus,
+		491 7G_Trichosurus_vulpecula,
+		492 7H_Pseudocheirus_peregrinus,
+		493 7J_Petauroides_volans;
+	TREE 'PHYLIP 1+' = ((((1:16.0,((((((((2:1.0,3:1.0,4:1.0,5:1.0,6:1.0,7:1.0):1.0,(8:1.0,9:1.0):1.0):8.0,(((10:2.0,11:2.0,(12:1.0,13:1.0):1.0,(14:1.0,15:1.0,16:1.0,17:1.0):1.0):2.0,(18:3.0,19:3.0,20:3.0,21:3.0,(22:2.0,23:2.0,24:2.0,25:2.0,26:2.0,27:2.0,28:2.0,(29:1.0,30:1.0,31:1.0,32:1.0):1.0):1.0):1.0):5.0,(((33:2.0,34:2.0,35:2.0,36:2.0,(37:1.0,38:1.0,39:1.0,40:1.0):1.0,(41:1.0,42:1.0,43:1.0,44:1.0):1.0):1.0,(45:1.0,46:1.0,47:1.0,48:1.0,49:1.0):2.0):5.0,(((50:1.0,51:1.0,52:1.0):3.0,(53:3.0,(54:2.0,(55:1.0,56:1.0):1.0):1.0):1.0):3.0,(((57:2.0,58:2.0,59:2.0,60:2.0,61:2.0,62:2.0,63:2.0,(64:1.0,65:1.0,66:1.0):1.0):3.0,((67:1.0,68:1.0):3.0,((69:1.0,70:1.0):2.0,(71:2.0,(72:1.0,73:1.0):1.0):1.0):1.0):1.0):1.0,((74:2.0,75:2.0,(76:1.0,77:1.0):1.0):2.0,(78:3.0,(79:2.0,80:2.0,81:2.0,(82:1.0,83:1.0):1.0,(84:1.0,85:1.0):1.0):1.0):1.0):2.0):1.0):1.0):1.0):1.0):1.0,(86:2.0,87:2.0,88:2.0,(89:1.0,90:1.0):1.0):9.0):1.0,(((((91:2.0,(92:1.0,93:1.0):1.0):2.0,((94:2.0,95:2.0,(96:1.0,97:1.0):1.0,(98:1.0,99:1.0):1.0,(100:1.0,101:1.0,102:1.0,103:1.0,104:1.0,105:1.0):1.0,(106:1.0,107:1.0,108:1.0,109:1.0):1.0):1.0,(110:1.0,111:1.0,112:1.0):2.0):1.0):4.0,(((113:2.0,114:2.0,(115:1.0,116:1.0):1.0):1.0,(117:2.0,118:2.0,119:2.0,120:2.0,121:2.0,122:2.0,123:2.0,124:2.0,125:2.0,126:2.0,127:2.0,128:2.0,129:2.0,130:2.0,131:2.0,132:2.0,133:2.0,134:2.0,135:2.0,136:2.0,137:2.0,(138:1.0,139:1.0):1.0,(140:1.0,141:1.0):1.0,(142:1.0,143:1.0):1.0,(144:1.0,145:1.0):1.0,(146:1.0,147:1.0):1.0,(148:1.0,149:1.0,150:1.0):1.0,(151:1.0,152:1.0):1.0,(153:1.0,154:1.0):1.0):1.0):4.0,((((((155:1.0,156:1.0):1.0,(157:1.0,158:1.0,159:1.0,160:1.0):1.0):1.0,(161:1.0,162:1.0,163:1.0):2.0):1.0,(164:1.0,165:1.0,166:1.0,167:1.0):3.0):1.0,(168:1.0,169:1.0,170:1.0,171:1.0):4.0):1.0,(172:3.0,(173:2.0,(174:1.0,175:1.0):1.0):1.0):3.0):1.0):1.0):1.0,(((176:2.0,177:2.0,(178:1.0,179:1.0):1.0):1.0,(180:2.0,181:2.0,(182:1.0,183:1.0):1.0):1.0):1.0,(184:1.0,185:1.0):3.0):5.0):1.0,((186:4.0,((187:1.0,188:1.0,189:1.0):2.0,(190:2.0,191:2.0,(192:1.0,193:1.0):1.0):1.0):1.0):1.0,(194:1.0,195:1.0,196:1.0,197:1.0,198:1.0,199:1.0,200:1.0,201:1.0,202:1.0,203:1.0,204:1.0,205:1.0):4.0):5.0):2.0):1.0,(((206:3.0,(207:2.0,208:2.0,209:2.0,(210:1.0,211:1.0):1.0):1.0):1.0,((212:1.0,213:1.0):1.0,(214:1.0,215:1.0):1.0):2.0):1.0,(216:2.0,217:2.0,218:2.0,219:2.0,220:2.0,221:2.0,222:2.0,223:2.0,224:2.0,225:2.0,(226:1.0,227:1.0):1.0):3.0):8.0):1.0,(228:2.0,229:2.0,230:2.0,231:2.0,232:2.0,(233:1.0,234:1.0):1.0):12.0):1.0,(235:2.0,(236:1.0,237:1.0,238:1.0):1.0):13.0):1.0):1.0,(239:2.0,(240:1.0,241:1.0,242:1.0,243:1.0,244:1.0):1.0):15.0):1.0,(((245:3.0,246:3.0,247:3.0,248:3.0,249:3.0,250:3.0,251:3.0,(252:2.0,253:2.0,254:2.0,255:2.0,256:2.0,(257:1.0,258:1.0):1.0):1.0,(259:1.0,260:1.0,261:1.0,262:1.0):2.0,(263:1.0,264:1.0,265:1.0,266:1.0,267:1.0,268:1.0,269:1.0,270:1.0):2.0,(271:1.0,272:1.0):2.0,(273:1.0,274:1.0):2.0,(275:1.0,276:1.0):2.0):1.0,((277:1.0,278:1.0):2.0,(279:2.0,280:2.0,281:2.0,282:2.0,283:2.0,284:2.0,285:2.0,286:2.0,287:2.0,288:2.0,289:2.0,290:2.0,291:2.0,(292:1.0,293:1.0):1.0,(294:1.0,295:1.0):1.0,(296:1.0,297:1.0):1.0,(298:1.0,299:1.0,300:1.0,301:1.0):1.0,(302:1.0,303:1.0):1.0,(304:1.0,305:1.0,306:1.0):1.0):1.0):1.0):1.0,(307:1.0,308:1.0):4.0):13.0):1.0,(((((309:8.0,(((310:5.0,((311:2.0,312:2.0,313:2.0,314:2.0,315:2.0,316:2.0,(317:1.0,318:1.0):1.0,(319:1.0,320:1.0,321:1.0):1.0,(322:1.0,323:1.0):1.0,(324:1.0,325:1.0):1.0,(326:1.0,327:1.0):1.0):2.0,((328:1.0,329:1.0,330:1.0):1.0,(331:1.0,332:1.0,333:1.0,334:1.0,335:1.0,336:1.0,337:1.0):1.0):2.0,((338:2.0,339:2.0,(340:1.0,341:1.0,342:1.0):1.0):1.0,(343:2.0,344:2.0,345:2.0,(346:1.0,347:1.0):1.0):1.0):1.0):1.0):1.0,(348:1.0,349:1.0):5.0):1.0,((350:3.0,351:3.0,352:3.0,353:3.0,(354:2.0,(355:1.0,356:1.0):1.0):1.0):1.0,(357:3.0,(358:2.0,359:2.0,360:2.0,361:2.0,362:2.0,(363:1.0,364:1.0):1.0):1.0):1.0):3.0):1.0):1.0,(((((365:1.0,366:1.0):1.0,(367:1.0,368:1.0,369:1.0,370:1.0,371:1.0,372:1.0,373:1.0):1.0):3.0,((374:2.0,375:2.0,376:2.0,377:2.0,378:2.0,379:2.0,380:2.0,381:2.0,(382:1.0,383:1.0,384:1.0):1.0,(385:1.0,386:1.0,387:1.0,388:1.0,389:1.0):1.0,(390:1.0,391:1.0,392:1.0,393:1.0):1.0):2.0,((394:2.0,395:2.0,396:2.0,(397:1.0,398:1.0):1.0):1.0,(399:1.0,400:1.0,401:1.0):2.0):1.0):1.0):1.0,((402:2.0,(403:1.0,404:1.0):1.0):2.0,((405:1.0,406:1.0,407:1.0):2.0,(408:2.0,(409:1.0,410:1.0):1.0):1.0):1.0):2.0):1.0,(411:1.0,412:1.0,413:1.0,414:1.0):6.0):2.0):4.0,((((((415:1.0,416:1.0):7.0,((((417:4.0,((418:2.0,(419:1.0,420:1.0,421:1.0):1.0):1.0,(422:2.0,(423:1.0,424:1.0):1.0):1.0):1.0,(425:2.0,426:2.0,(427:1.0,428:1.0,429:1.0):1.0):2.0):1.0,(430:1.0,431:1.0,432:1.0):4.0):1.0,(433:1.0,434:1.0):5.0):1.0,((435:1.0,436:1.0):1.0,(437:1.0,438:1.0,439:1.0,440:1.0):1.0):5.0):1.0):1.0,(441:2.0,442:2.0,443:2.0,(444:1.0,445:1.0,446:1.0):1.0):7.0):1.0,(((447:2.0,(448:1.0,449:1.0):1.0):1.0,(450:1.0,451:1.0,452:1.0):2.0):2.0,(453:4.0,(454:3.0,(455:2.0,456:2.0,(457:1.0,458:1.0,459:1.0):1.0):1.0):1.0,(460:1.0,461:1.0):3.0):1.0):5.0):1.0,(462:1.0,463:1.0):10.0):1.0,(464:1.0,465:1.0):11.0):1.0):1.0,(466:3.0,(467:2.0,(468:1.0,469:1.0,470:1.0,471:1.0,472:1.0,473:1.0,474:1.0):1.0):1.0):11.0):1.0,((475:2.0,476:2.0,477:2.0,(478:1.0,479:1.0):1.0):4.0,(((480:2.0,(481:1.0,482:1.0):1.0):1.0,(483:1.0,484:1.0,485:1.0):2.0):2.0,(((486:1.0,487:1.0):2.0,(488:2.0,(489:1.0,490:1.0):1.0):1.0):1.0,(491:2.0,(492:1.0,493:1.0):1.0):2.0):1.0):1.0):9.0):4.0):1.0[% ] [%unrooted = on ];
+	TREE 'Modified Tree (kmm)' = (((307:1.0,308:1.0):31.0,((((277:3.0,278:3.0,285:3.0,(284:2.0,(304:1.0,305:1.0,306:1.0):1.0):1.0):10.0,(279:12.0,((287:1.0,291:1.0):10.0,((280:1.0,290:1.0):9.0,(286:9.0,(288:8.0,(296:7.0,(297:6.0,((299:3.0,(298:2.0,(300:1.0,301:1.0):1.0):1.0):2.0,((283:3.0,((281:1.0,282:1.0):1.0,(292:1.0,293:1.0):1.0):1.0):1.0,((294:1.0,295:1.0):1.0,(289:1.0,302:1.0,303:1.0):1.0):2.0):1.0):1.0):1.0):1.0):1.0):1.0):1.0):1.0):1.0)Galli:1.0[%triangled = on ],((251:5.0,((250:2.0,(275:1.0,276:1.0):1.0):2.0,(261:3.0,(260:2.0,(259:1.0,262:1.0):1.0):1.0):1.0):1.0):3.0,((245:1.0,246:1.0):6.0,((257:1.0,258:1.0):5.0,(((273:1.0,274:1.0):2.0,(249:2.0,(271:1.0,272:1.0):1.0):1.0):2.0,((247:1.0,248:1.0):3.0,((252:2.0,253:2.0,256:2.0,(254:1.0,255:1.0):1.0):1.0,(264:2.0,265:2.0,266:2.0,267:2.0,268:2.0,269:2.0,(263:1.0,270:1.0):1.0):1.0):1.0):1.0):1.0):1.0):1.0)Anser:6.0[%triangled = on ]):17.0,(((55:1.0,56:1.0)Suli:2.0[%triangled = on ],(71:2.0,(53:1.0,54:1.0):1.0):1.0)Clade_1:27.0[%triangled = on ],((((73:2.0,(69:1.0,70:1.0)Thresk:1.0[%triangled = on ]):3.0,((57:1.0,58:1.0):3.0,(62:3.0,(59:2.0,61:2.0,(60:1.0,63:1.0):1.0,(64:1.0,65:1.0,66:1.0):1.0):1.0):1.0)Ardeidae:1.0[%triangled = on ]):2.0,(72:6.0,((45:1.0,46:1.0,47:1.0,48:1.0,49:1.0):4.0,((35:2.0,(41:1.0,42:1.0,43:1.0,44:1.0):1.0):2.0,((33:1.0,34:1.0):2.0,(36:2.0,(37:1.0,38:1.0,39:1.0,40:1.0):1.0):1.0):1.0):1.0)Falconi:1.0[%triangled = on ]):1.0)Clade_2:22.0[%triangled = on ],(8:28.0,(((9:1.0[%color = 13 ],235:1.0[%color = 6 ]):7.0,((67:1.0,68:1.0)Phoeni:6.0[%triangled = on ],((78:2.0,(50:1.0,51:1.0,52:1.0)Podi:1.0[%triangled = on ]):4.0,((75:3.0,(74:2.0,(76:1.0,77:1.0):1.0):1.0)Sphen:2.0[%triangled = on ],((80:2.0,(82:1.0,83:1.0):1.0)Diomed:2.0[%triangled = on ],(81:3.0,(79:2.0,(84:1.0,85:1.0):1.0)Procell:1.0[%triangled = on ]):1.0):1.0):1.0):1.0):1.0)Clade_3:19.0[%triangled = on ],(((88:3.0,((86:1.0,87:1.0):1.0,(89:1.0,90:1.0):1.0):1.0)Columb:7.0[%triangled = on ],((11:3.0,(10:2.0,(12:1.0,13:1.0):1.0):1.0,(14:1.0,15:1.0,16:1.0,17:1.0):2.0):6.0[%triangled = on ],(((18:1.0,19:1.0):1.0,(20:1.0,21:1.0):1.0):6.0[%triangled = on ],(22:7.0,((31:3.0,(30:2.0,(29:1.0,32:1.0):1.0):1.0):3.0[%triangled = on ],(23:5.0,(25:4.0,(27:3.0,(26:2.0,(24:1.0,28:1.0):1.0):1.0):1.0):1.0):1.0[%triangled = on ]):1.0):1.0):1.0)Charad:1.0)Clade_4:16.0[%triangled = on ],((3:5.0,(4:4.0,(6:3.0,(5:2.0,(2:1.0,7:1.0):1.0):1.0):1.0):1.0)Rallidae:20.0[%triangled = on ],(((230:2.0,(233:1.0,234:1.0):1.0):1.0,((228:1.0,232:1.0):1.0,(229:1.0,231:1.0):1.0):1.0)Psitt:21.0[%triangled = on ],((237:2.0,(236:1.0,238:1.0):1.0)Cucu:21.0[%triangled = on ],((244:4.0,(239:3.0,((240:1.0,243:1.0):1.0,(241:1.0,242:1.0):1.0):1.0):1.0)Pici:18.0[%triangled = on ],(1:21.0,((206:3.0,(207:2.0,208:2.0,209:2.0,(210:1.0,211:1.0):1.0):1.0)Strig:17.0[%triangled = on ],(((212:1.0,213:1.0):1.0,(214:1.0,215:1.0):1.0)Capri:17.0[%triangled = on ],((216:2.0,217:2.0,218:2.0,219:2.0,220:2.0,221:2.0,222:2.0,223:2.0,224:2.0,225:2.0,(226:1.0,227:1.0):1.0)Troch:16.0[%triangled = on ],((((186:1.0,187:1.0)Thamno:1.0[%triangled = on ],(188:1.0,189:1.0)Formic:1.0[%triangled = on ]):4.0,((190:3.0,(191:2.0,(192:1.0,193:1.0):1.0)Dendro:1.0[%triangled = on ]):2.0,(91:4.0,(195:3.0,(194:2.0,(196:1.0,197:1.0):1.0):1.0):1.0,((198:1.0,202:1.0,203:1.0,204:1.0):1.0,(199:1.0,200:1.0,201:1.0,205:1.0):1.0):2.0)Tyranni:1.0[%triangled = on ]):1.0):11.0,(((181:2.0,(182:1.0,183:1.0):1.0)Vireon:3.0[%triangled = on ],((184:1.0,185:1.0)Lanii:3.0[%triangled = on ],(177:3.0,(176:2.0,(178:1.0,179:1.0):1.0):1.0)Corvid:1.0):1.0):11.0[%triangled = on ],(((164:3.0,(165:2.0,(166:1.0,167:1.0):1.0):1.0)Hirun:3.0[%triangled = on ],(((155:1.0,156:1.0):2.0,(158:2.0,159:2.0,(157:1.0,160:1.0):1.0):1.0)Sylviidae:2.0[%triangled = on ],((168:3.0,(169:2.0,(170:1.0,171:1.0):1.0):1.0)Paridae:1.0[%triangled = on ],(172:3.0,(173:2.0,(174:1.0,175:1.0):1.0)Troglo:1.0[%triangled = on ]):1.0):1.0):1.0):9.0,((92:1.0,93:1.0)Bomby:13.0[%triangled = on ],(((112:2.0,(110:1.0,111:1.0)Mimidae:1.0[%triangled = on ]):2.0,(((94:1.0,95:1.0):1.0,(96:1.0,97:1.0):1.0)Muscicapi:1.0[%triangled = on ],((98:1.0,99:1.0):1.0,(106:1.0,107:1.0,108:1.0,109:1.0):1.0,(100:1.0,101:1.0,102:1.0,103:1.0,104:1.0,105:1.0):1.0)Turdidae:1.0[%triangled = on ]):1.0):9.0,(((113:1.0,114:1.0):3.0,((115:1.0,116:1.0):2.0,(163:2.0,(161:1.0,162:1.0):1.0)Regulidae:1.0[%triangled = on ]):1.0):8.0,((120:5.0,((121:1.0,122:1.0):3.0,(142:1.0,143:1.0):3.0,((140:1.0,141:1.0):2.0,(123:2.0,(144:1.0,145:1.0):1.0):1.0):1.0):1.0)Fring:6.0[%triangled = on ],(132:10.0,((118:3.0,((129:1.0,135:1.0):1.0,(130:1.0,134:1.0):1.0,(131:1.0,133:1.0):1.0):1.0):6.0,(((138:1.0,139:1.0):2.0,(119:2.0,(117:1.0,137:1.0):1.0):1.0):5.0,(180:7.0,((126:4.0,(125:3.0,(148:2.0,(149:1.0,150:1.0):1.0):1.0):1.0):2.0,((124:2.0,(146:1.0,147:1.0):1.0):3.0,(128:4.0,((151:1.0,152:1.0):2.0,((127:1.0,136:1.0):1.0,(153:1.0,154:1.0):1.0):1.0):1.0)Parulidae:1.0[%triangled = on ]):1.0):1.0):1.0):1.0):1.0)9_Primaried_Oscines:1.0[%triangled = on ]):1.0):1.0):1.0):1.0):1.0)Oscines:1.0)Passeriformes:1.0):1.0):1.0):1.0):1.0):1.0):1.0):1.0):1.0):1.0):1.0):1.0):1.0):1.0):1.0)Aves:1.0,(((483:1.0,484:1.0,485:1.0)Peramelia:6.0,((476:4.0,(477:3.0,(475:2.0,(478:1.0,479:1.0):1.0):1.0):1.0)Dasyuridae:2.0[%triangled = on ],((480:2.0,(481:1.0,482:1.0)Vombatidae:1.0):3.0,((491:2.0,(492:1.0,493:1.0):1.0[%triangled = on ]):2.0,((486:1.0,487:1.0):2.0[%triangled = on ],(488:2.0,(489:1.0,490:1.0):1.0)Macropodidae:1.0[%triangled = on ]):1.0):1.0):1.0):1.0)Marsupialia:10.0[%triangled = on ],((466:4.0,(465:3.0,(467:2.0,(468:1.0,469:1.0,470:1.0,471:1.0,472:1.0,473:1.0,474:1.0):1.0)Macroscelidea:1.0[%triangled = on ]):1.0)Afrotheria:12.0[%triangled = on ],((464:11.0,((((442:2.0,(441:1.0,443:1.0):1.0):1.0,(445:2.0,(444:1.0,446:1.0):1.0):1.0)Periss:5.0[%triangled = on ],((462:1.0,463:1.0)Pholidota:6.0[%triangled = on ],(((447:2.0,(448:1.0,449:1.0):1.0)Canidae:2.0[%triangled = on ],(453:3.0,(450:2.0,(451:1.0,452:1.0):1.0):1.0)Mustelidae:1.0[%triangled = on ]):2.0,(454:5.0,((460:1.0,461:1.0)Viverridae:3.0[%triangled = on ],((457:1.0,455:1.0):2.0,((456:1.0,458:1.0):1.0,459:2.0):1.0):1.0[%triangled = on ]):1.0):1.0)Carnivora:1.0[%triangled = on ]):1.0):2.0[%triangled = on ],((435:1.0,436:1.0)Camelidae:8.0[%triangled = on ],((437:1.0,438:1.0,439:1.0,440:1.0)Suidae:7.0[%triangled = on ],((415:1.0,416:1.0)Cetacea:6.0[%triangled = on ],(((430:2.0,(431:1.0,432:1.0):1.0)Cervidae:1.0[%triangled = on ],(433:1.0,434:1.0)Giraffidae:2.0):3.0,(((425:3.0,(426:2.0,(427:1.0,428:1.0,429:1.0):1.0):1.0):1.0,(418:2.0,(419:1.0,420:1.0,421:1.0):1.0)Ovis:2.0[%triangled = on ]):1.0,(417:3.0,(422:2.0,(423:1.0,424:1.0):1.0):1.0):2.0)Bovidae:1.0[%triangled = on ]):1.0):1.0):1.0)Cetartiodactyla:1.0[%triangled = on ]):1.0):4.0,(((411:3.0,(413:2.0,(412:1.0,414:1.0):1.0):1.0)Scandentia:8.0[%triangled = on ],(((402:2.0,(403:1.0,404:1.0)Cheirogaleidae:1.0[%triangled = on ]):2.0,((406:2.0,(405:1.0,407:1.0):1.0)Loridae:1.0[%triangled = on ],(408:2.0,(409:1.0,410:1.0):1.0)Galagonidae:1.0[%triangled = on ]):1.0):6.0,(((365:1.0,366:1.0)Callitri:4.0[%triangled = on ],((369:3.0,(368:2.0,(370:1.0,371:1.0):1.0):1.0):1.0,((367:1.0,372:1.0):1.0,373:2.0):2.0)Cebidae:1.0[%triangled = on ]):4.0,(((399:2.0,(400:1.0,401:1.0):1.0)Hylobatidae:3.0[%triangled = on ],(396:4.0,(394:3.0,(395:2.0,(397:1.0,398:1.0):1.0):1.0):1.0)Hominidae:1.0[%triangled = on ]):3.0,((375:6.0,(380:5.0,(381:4.0,(390:3.0,(391:2.0,379:2.0,(392:1.0,393:1.0):1.0):1.0):1.0):1.0):1.0)Colobinae:1.0[%triangled = on ],(((378:1.0,376:1.0):2.0,(377:2.0,(382:1.0,383:1.0,384:1.0):1.0):1.0):3.0,(374:5.0,(385:4.0,(389:3.0,(388:2.0,(386:1.0,387:1.0):1.0):1.0):1.0):1.0):1.0)Cercopithicinae:1.0[%triangled = on ]):1.0):1.0):1.0)Primates:1.0[%triangled = on ]):3.0,(309:13.0,(((353:5.0,((351:1.0,352:1.0):3.0,(350:3.0,(354:2.0,(355:1.0,356:1.0):1.0)Caviomorpha:1.0[%triangled = on ]):1.0):1.0):2.0,(357:6.0,(362:5.0,(360:4.0,(359:3.0,((358:1.0,361:1.0):1.0,(363:1.0,364:1.0):1.0):1.0):1.0):1.0)Sciuridae:1.0):1.0):5.0[%triangled = on ],((348:1.0,349:1.0):10.0,(310:10.0,((343:3.0,(344:2.0,(329:1.0,345:1.0):1.0):1.0)Nesomyidae:6.0[%triangled = on ],(((338:1.0,339:1.0):6.0,(((340:1.0,328:1.0):4.0,(330:4.0,(332:3.0,333:3.0,(331:1.0,334:1.0):2.0,(337:2.0,(336:1.0,335:1.0):1.0):1.0)Microtus:1.0[%triangled = on ]):1.0):1.0,(342:1.0,341:1.0):5.0):1.0)Cricetidae:1.0,((((((315:1.0,314:1.0):1.0,(346:1.0,347:1.0):1.0):1.0,316:3.0):1.0,((326:1.0,327:1.0):2.0,(320:2.0,(319:1.0,321:1.0):1.0):1.0):1.0):1.0,(311:2.0,(317:1.0,318:1.0):1.0):3.0):1.0,(313:4.0,(((324:1.0,325:1.0):1.0,312:2.0):1.0,(322:1.0,323:1.0):2.0):1.0):2.0)Muridae:2.0[%triangled = on ]):1.0):1.0)Muroidea:1.0):1.0[%triangled = on ])Rodentia:1.0):1.0[%triangled = on ]):1.0):1.0):1.0)Mammalia:16.0):1.0[% ] [%unrooted = on ];
+
+END;
+
+
+BEGIN ASSUMPTIONS;
+	TYPESET * UNTITLED   =  Squared:  1 -  2;
+
+END;
+
+BEGIN MESQUITECHARMODELS;
+	ProbModelSet * UNTITLED   =  Brownian_default:  1 -  2;
+END;
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 2634035010473745546;
+		endTell;
+		getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters;
+		tell It;
+			setID 0 8786255732323288374;
+			checksum 0 2307274918;
+		endTell;
+		getEmployee  #mesquite.pdap.InterpretPDI.InterpretPDI;
+		tell It;
+			getEmployee #mesquite.trees.StoredTrees.StoredTrees;
+			tell It;
+				setTreeBlock 1;
+				toggleUseWeights off;
+			endTell;
+		endTell;
+		getEmployee  #mesquite.trees.BasicTreeWindowCoord.BasicTreeWindowCoord;
+		tell It;
+			makeTreeWindow #2634035010473745546  #mesquite.trees.BasicTreeWindowMaker.BasicTreeWindowMaker;
+			tell It;
+				setTreeSource  #mesquite.trees.StoredTrees.StoredTrees;
+				tell It;
+					setTreeBlock 1;
+					toggleUseWeights off;
+				endTell;
+				setAssignedID 743.1160073517593.3990342187708426212;
+				getTreeWindow;
+				tell It;
+					setSize 1440 765;
+					setLocation 0 22;
+					setFont SanSerif;
+					setFontSize 10;
+					onInfoBar;
+					setExplanationSize 50;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					getToolPalette;
+					tell It;
+						setTool mesquite.trees.ColorBranches.ColorToolExtra.ColorBranches;
+					endTell;
+					setActive;
+					getTreeDrawCoordinator #mesquite.trees.BasicTreeDrawCoordinator.BasicTreeDrawCoordinator;
+				tell It;
+					suppress;
+					setTreeDrawer  #mesquite.trees.SquareTree.SquareTree;
+					tell It;
+						setNodeLocs #mesquite.trees.NodeLocsStandard.NodeLocsStandard;
+						tell It;
+							stretchToggle off;
+							branchLengthsToggle on;
+							toggleScale off;
+							toggleCenter on;
+							toggleEven on;
+							namesAngle ?;
+						endTell;
+						setEdgeWidth 4;
+						orientUp;
+						toggleCorners off;
+					endTell;
+					setBackground White;
+					setBranchColor Black;
+					showNodeNumbers off;
+					labelBranchLengths off;
+					desuppress;
+					getEmployee #mesquite.trees.BasicDrawTaxonNames.BasicDrawTaxonNames;
+					tell It;
+						setFont Arial;
+						setFontSize 12;
+						setColor Black;
+						toggleColorPartition on;
+						toggleShadePartition off;
+						toggleNodeLabels on;
+						toggleShowNames on;
+					endTell;
+				endTell;
+					setTreeNumber 2;
+					useSuggestedSize off;
+					toggleSizeToFit off;
+					sizeDrawing 5000 1000;
+					toggleLegendFloat on;
+					setOrigin 0 -2;
+					toggleTextOnTree off;
+					newAssistant  #mesquite.trees.TreeNotesMaker.TreeNotesMaker;
+				tell It;
+					getNote;
+					tell It;
+						setBounds 4 23 100 20;
+						setOffsetX 4;
+						setOffsetY 23;
+						setNote ;
+						setOffsetX 4;
+						setOffsetY 23;
+					endTell;
+				endTell;
+				endTell;
+				showWindow;
+				getEmployee #mesquite.ornamental.BranchNotes.BranchNotes;
+				tell It;
+					setAlwaysOn off;
+				endTell;
+				getEmployee #mesquite.ornamental.ColorTreeByPartition.ColorTreeByPartition;
+				tell It;
+					colorByPartition off;
+				endTell;
+				getEmployee #mesquite.trees.ColorBranches.ColorBranches;
+				tell It;
+					setColor Dark Gray;
+					removeColor on;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+

@@ -1,0 +1,257 @@
+#NEXUS
+[written Fri Dec 15 17:23:46 PST 2006 by Mesquite  version 1.11 (build h64) at Otus.local/128.189.253.92]
+
+BEGIN TAXA;
+	TITLE Taxa_from_PDIfile;
+	DIMENSIONS NTAX=5;
+	TAXLABELS
+		AA BB CC DD EE 
+	;
+
+END;
+
+
+BEGIN CHARACTERS;
+	TITLE  Untitled_Character_Matrix;
+	DIMENSIONS NCHAR=2;
+	FORMAT DATATYPE = CONTINUOUS;
+	MATRIX
+	AA   1.0 1.0
+	BB   2.0 4.0
+	CC   3.0 9.0
+	DD   4.0 16.0
+	EE   5.0 25.0
+
+;
+
+END;
+BEGIN TREES;
+	Title Untitled_Trees_Block;
+	LINK Taxa = Taxa_from_PDIfile;
+	TRANSLATE
+		1 AA,
+		2 BB,
+		3 CC,
+		4 DD,
+		5 EE;
+	TREE 'PDI tree+' = (1:1.0,2:1.0,3:1.0,4:1.0,5:1.0)'rt:':0.0;
+
+END;
+
+
+BEGIN ASSUMPTIONS;
+	TYPESET * UNTITLED   =  Squared:  1 -  2;
+
+END;
+
+BEGIN MESQUITECHARMODELS;
+	ProbModelSet * UNTITLED   =  Brownian_default:  1 -  2;
+END;
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 6632155257865058418;
+		endTell;
+		getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters;
+		tell It;
+			setID 0 7543396365122754117;
+			checksum 0 3795377900;
+		endTell;
+		getEmployee  #mesquite.charMatrices.BasicDataWindowCoord.BasicDataWindowCoord;
+		tell It;
+			showDataWindow #7543396365122754117 #mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindowMaker;
+			tell It;
+				getWindow;
+				tell It;
+					setSize 420 280;
+					setLocation 60 22;
+					setFont SanSerif;
+					setFontSize 10;
+					onInfoBar;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					getToolPalette;
+					tell It;
+					endTell;
+					setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.arrow;
+					colorCells  #mesquite.charMatrices.NoColor.NoColor;
+					setBackground White;
+					toggleShowNames on;
+					toggleTight off;
+					toggleShowChanges on;
+					toggleSeparateLines off;
+					toggleShowStates on;
+					toggleAutoWCharNames on;
+					toggleShowDefaultCharNames off;
+					toggleConstrainCW on;
+					toggleBirdsEye off;
+					toggleColorsPanel off;
+					birdsEyeWidth 2;
+					toggleLinkedScrolling on;
+					toggleScrollLinkedTables off;
+				endTell;
+				showWindow;
+				getWindow;
+				tell It;
+					forceAutosize;
+				endTell;
+				getEmployee #mesquite.charMatrices.AnnotPanel.AnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorCells.ColorCells;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.stratigraphictools.ColorScaleCells.ColorScaleCells;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+			endTell;
+		endTell;
+		getEmployee  #mesquite.trees.BasicTreeWindowCoord.BasicTreeWindowCoord;
+		tell It;
+			makeTreeWindow #6632155257865058418  #mesquite.trees.BasicTreeWindowMaker.BasicTreeWindowMaker;
+			tell It;
+				setTreeSource  #mesquite.trees.StoredTrees.StoredTrees;
+				tell It;
+					setTreeBlock 1;
+					toggleUseWeights off;
+				endTell;
+				setAssignedID 714.1166232220887.5719256145060785285;
+				getTreeWindow;
+				tell It;
+					setSize 500 400;
+					setLocation 150 70;
+					setFont SanSerif;
+					setFontSize 10;
+					onInfoBar;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					getToolPalette;
+					tell It;
+					endTell;
+					setActive;
+					getTreeDrawCoordinator #mesquite.trees.BasicTreeDrawCoordinator.BasicTreeDrawCoordinator;
+				tell It;
+					suppress;
+					setTreeDrawer  #mesquite.trees.SquareTree.SquareTree;
+					tell It;
+						setNodeLocs #mesquite.trees.NodeLocsStandard.NodeLocsStandard;
+						tell It;
+							stretchToggle off;
+							branchLengthsToggle on;
+							toggleScale on;
+							toggleCenter on;
+							toggleEven on;
+							namesAngle ?;
+						endTell;
+						setEdgeWidth 4;
+						orientUp;
+						toggleCorners off;
+					endTell;
+					setBackground White;
+					setBranchColor Black;
+					showNodeNumbers off;
+					labelBranchLengths off;
+					desuppress;
+					getEmployee #mesquite.trees.BasicDrawTaxonNames.BasicDrawTaxonNames;
+					tell It;
+						setColor Black;
+						toggleColorPartition on;
+						toggleShadePartition off;
+						toggleNodeLabels on;
+						toggleShowNames on;
+					endTell;
+				endTell;
+					setTreeNumber 1;
+					useSuggestedSize on;
+					toggleTextOnTree off;
+					newWindowAssistant  #mesquite.pdap.PDAPDiagnosticChart.PDAPDiagnosticChart;
+				tell It;
+					getCharacterSource  #mesquite.charMatrices.CharSrcCoordObed.CharSrcCoordObed;
+					tell It;
+						setCharacterSource #mesquite.charMatrices.StoredCharacters.StoredCharacters;
+						tell It;
+							setDataSet #7543396365122754117;
+						endTell;
+					endTell;
+					setScreen 1;
+					setX 1;
+					setY 2;
+					toggleShowLegend on;
+					toggleTreeLabels off;
+					toggleQueryDone off;
+					getWindow;
+					tell It;
+						setSize 600 400;
+						setLocation 300 150;
+						setFont SanSerif;
+						setFontSize 10;
+						onInfoBar;
+						setExplanationSize 30;
+						setAnnotationSize 20;
+						setFontIncAnnot 0;
+						setFontIncExp 0;
+						getToolPalette;
+						tell It;
+						endTell;
+						getLegend;
+						tell It;
+							setBounds 0 0 142 66;
+							setOffsetX 0;
+							setOffsetY 0;
+						endTell;
+					endTell;
+					showWindow;
+					getEmployee #mesquite.charts.Scattergram.Scattergram;
+					tell It;
+						markerSize 10;
+						toggleJoin off;
+						toggleShowDots on;
+						movingWindowSize 1;
+						sumByBlocks off;
+							newAssistant  #mesquite.pdap.ScatterRegDiagnostics.ScatterRegDiagnostics;
+					endTell;
+					getEmployee #mesquite.pdap.FelsContrWithChar.FelsContrWithChar;
+					tell It;
+						setItem 0;
+					endTell;
+					getEmployee #mesquite.pdap.ContrastResiduals.ContrastResiduals;
+					tell It;
+						getCharacterSource ;
+						setCharacterA 1;
+						setCharacterB 2;
+					endTell;
+				endTell;
+				endTell;
+				showWindow;
+				getEmployee #mesquite.ornamental.BranchNotes.BranchNotes;
+				tell It;
+					setAlwaysOn off;
+				endTell;
+				getEmployee #mesquite.ornamental.ColorTreeByPartition.ColorTreeByPartition;
+				tell It;
+					colorByPartition off;
+				endTell;
+				getEmployee #mesquite.trees.ColorBranches.ColorBranches;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+
