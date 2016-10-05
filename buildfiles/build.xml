@@ -43,8 +43,8 @@
        <javac srcdir="${sourceDir}"
          destdir="${buildDir}"
          debug="on"
-         target="1.4"
-         source="1.4">
+         target="1.5"
+         source="1.5">
          <classpath refid="mesquitePath"/>
          </javac>
     	<copy todir="${buildDir}/mesquite/pdap/aPDAPintro">
