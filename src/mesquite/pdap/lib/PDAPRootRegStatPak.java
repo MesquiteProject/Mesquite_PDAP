@@ -9,6 +9,7 @@ GNU Lesser General Public License.  (http://www.gnu.org/copyleft/lesser.html)
 package mesquite.pdap.lib;
 
 import java.util.ArrayList;
+import java.util.List;
 
 import mesquite.cont.lib.ContinuousDistribution;
 import mesquite.lib.MesquiteDouble;
@@ -17,7 +18,7 @@ import mesquite.lib.Tree;
 public abstract class PDAPRootRegStatPak extends PDAPRootStatPak {
 
     // Add support for CI/PI 
-    protected ArrayList CIPIValues = null;  //Non-generic as Mesquite needs to run under Java 1.4
+    protected List<MesquiteDouble> CIPIValues = null;  // should this be empty rather than null?
     
     /*-----------------------------------------*/
     /** Set the tree so we can do the contrast calculations internally
@@ -66,7 +67,7 @@ public abstract class PDAPRootRegStatPak extends PDAPRootStatPak {
 
     /** This allows clearing the list of values (e.g., when a character is changed) */
     public void clearCIPIlist() {
-        CIPIValues = new ArrayList();
+        CIPIValues = new ArrayList<MesquiteDouble>();
     }
 
     /**
