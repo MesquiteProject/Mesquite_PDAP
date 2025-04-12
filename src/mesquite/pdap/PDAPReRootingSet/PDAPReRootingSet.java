@@ -7,8 +7,8 @@ GNU Lesser General Public License.  (http://www.gnu.org/copyleft/lesser.html)
 */
 package mesquite.pdap.PDAPReRootingSet;
 
-import mesquite.lib.MesquiteTree;
-import mesquite.lib.Tree;
+import mesquite.lib.tree.MesquiteTree;
+import mesquite.lib.tree.Tree;
 import mesquite.treefarm.lib.DetTreeModifier;
 
 public class PDAPReRootingSet extends DetTreeModifier {

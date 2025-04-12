@@ -13,7 +13,7 @@ import java.util.List;
 
 import mesquite.cont.lib.ContinuousDistribution;
 import mesquite.lib.MesquiteDouble;
-import mesquite.lib.Tree;
+import mesquite.lib.tree.Tree;
 
 public abstract class PDAPRootRegStatPak extends PDAPRootStatPak {
 

@@ -9,12 +9,12 @@ GNU Lesser General Public License.  (http://www.gnu.org/copyleft/lesser.html)
 package mesquite.pdap.SPRootRegression;
 
 import mesquite.cont.lib.ContinuousDistribution;
-import mesquite.lib.MesquiteChart;
 import mesquite.lib.MesquiteDouble;
 import mesquite.lib.MesquiteInteger;
 import mesquite.lib.MesquiteMessage;
 import mesquite.lib.MesquiteNumber;
 import mesquite.lib.NumberArray;
+import mesquite.lib.ui.MesquiteChart;
 import mesquite.pdap.lib.BivariateContrastCalculator;
 import mesquite.pdap.lib.NoPolyTree;
 import mesquite.pdap.lib.PDAPRootRegStatPak;

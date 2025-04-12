@@ -15,6 +15,8 @@ import mesquite.distance.lib.*;
 import mesquite.distance.TaxaDistFromMatrixSrc.TaxaDistFromMatrixSrc;
 import mesquite.lib.*;
 import mesquite.lib.duties.FileInterpreterI;
+import mesquite.lib.taxa.Taxa;
+import mesquite.lib.ui.MesquiteWindow;
 
 public class InterpretPDDIST extends FileInterpreterI{
 	public void getEmployeeNeeds(){  //This gets called on startup to harvest information; override this and inside, call registerEmployeeNeed
@@ -127,7 +129,7 @@ public class InterpretPDDIST extends FileInterpreterI{
 		final String columnDelimiter = getColumnDelimiter(); 
 		final String lineDelimiter = getLineEnding();
 
-		final StringBuffer reportString = new StringBuffer(2*numRows*numColumns);
+		final MesquiteStringBuffer reportString = new MesquiteStringBuffer(2*numRows*numColumns);
 		if (addRowAndColumnHeaders){
 			for (int i=0;i<userColumnWidth;i++)
 				reportString.append(' ');

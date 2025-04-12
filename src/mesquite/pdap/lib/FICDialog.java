@@ -13,6 +13,7 @@ package mesquite.pdap.lib;
 import java.awt.*;
 
 import mesquite.lib.*;
+import mesquite.lib.ui.MesquiteWindow;
 import mesquite.pdap.FICReport.FICReport;
 
 

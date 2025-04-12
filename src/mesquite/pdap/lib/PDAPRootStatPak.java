@@ -10,7 +10,7 @@ package mesquite.pdap.lib;
 import mesquite.lib.MesquiteDouble;
 import mesquite.lib.MesquiteMessage;
 import mesquite.lib.MesquiteNumber;
-import mesquite.lib.Tree;
+import mesquite.lib.tree.Tree;
 import JSci.maths.statistics.TDistribution;
 
 public abstract class PDAPRootStatPak extends PDAP2CTStatPak{

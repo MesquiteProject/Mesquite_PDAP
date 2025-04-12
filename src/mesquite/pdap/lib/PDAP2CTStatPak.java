@@ -9,6 +9,8 @@ package mesquite.pdap.lib;
 
 import mesquite.cont.lib.ContinuousDistribution;
 import mesquite.lib.*;
+import mesquite.lib.tree.MesquiteTree;
+import mesquite.lib.tree.Tree;
 import JSci.maths.statistics.TDistribution;
 
 public abstract class PDAP2CTStatPak extends PDAPStatPak {
